@@ -1,8 +1,8 @@
-# Physics Explanation Safety
+# Epistemic Safety in AI Physics Tutors
 
-This repository contains the code, data artifacts, paper files, and poster materials for a pilot study on evaluating pedagogical structure and epistemic safety in AI-generated introductory physics explanations.
+This repository contains the code, data artifacts, paper files, and poster materials for **Epistemic Safety in AI Physics Tutors: Evaluating Pedagogical Structure in Generated Explanations**, a pilot study on evaluating pedagogical structure and epistemic safety in AI-generated introductory physics explanations.
 
-The project was accepted as a poster at the **Conference on Physics and AI at Stanford University (PAI 2026)**. The Stanford poster-session listing includes the project in Session 2 as:
+The project was accepted as a poster at the **Conference on Physics and AI at Stanford University (PAI 2026)**. The official Stanford poster-session listing includes the project in Session 2 under its submitted listing title:
 
 > A Pilot Study of Discourse Structure in AI-Generated Introductory Physics Explanations — Abdul Mohammad
 
@@ -41,7 +41,8 @@ The core finding is that AI explanations can match human explanations on correct
 
 ## Main Artifacts
 
-- Camera-ready safety paper: `submission/PAI26_safety_variant/paper/main.pdf`
+- Camera-ready paper: `submission/PAI26_safety_variant/paper/main.pdf`
+- Paper source: `submission/PAI26_safety_variant/paper/main.tex`
 - Poster PowerPoint: `submission/PAI26_safety_variant/poster/PAI26_safety_poster.pptx`
 - Poster-ready figures: `outputs/paper_figures_for_poster/`
 - Locked 60-sample analysis outputs: `outputs/submission_60/`
@@ -69,6 +70,7 @@ python3 analysis/build_pai26_safety_poster.py
 If citing this project, use:
 
 ```text
-Mohammad, Abdul. "A Pilot Study of Discourse Structure in AI-Generated Introductory Physics Explanations." Conference on Physics and AI at Stanford University (PAI 2026), Poster Session 2.
+Mohammad, Abdul. "Epistemic Safety in AI Physics Tutors: Evaluating Pedagogical Structure in Generated Explanations." Conference on Physics and AI at Stanford University (PAI 2026), Poster Session 2.
 ```
 
+The Stanford session page lists the poster under the submitted listing title, "A Pilot Study of Discourse Structure in AI-Generated Introductory Physics Explanations."
