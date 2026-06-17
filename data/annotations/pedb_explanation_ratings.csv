@@ -1,0 +1,91 @@
+explanation_id,prompt_id,topic,source_type,annotator_id,correctness,clarity,completeness,notes
+H_M01_1,M01,Mechanics,human,Annotator_1,5,5,5,"Clear, accurate, and pedagogically complete benchmark explanation."
+AI_M01_1,M01,Mechanics,AI,Annotator_1,5,5,4,Highly clear and accurate AI explanation with strong structure; slightly less nuance than benchmark human text.
+AI_M01_2,M01,Mechanics,AI,Annotator_1,5,4,4,Clear and accurate explanation with good flow; could use slightly more intuitive scaffolding.
+H_M02_1,M02,Mechanics,human,Annotator_1,5,5,5,"Clear, accurate, and pedagogically complete benchmark explanation."
+AI_M02_1,M02,Mechanics,AI,Annotator_1,5,5,4,Highly clear and accurate AI explanation with strong structure; slightly less nuance than benchmark human text.
+AI_M02_2,M02,Mechanics,AI,Annotator_1,5,4,4,Clear and accurate explanation with good flow; could use slightly more intuitive scaffolding.
+H_M03_1,M03,Mechanics,human,Annotator_1,5,5,5,"Clear, accurate, and pedagogically complete benchmark explanation."
+AI_M03_1,M03,Mechanics,AI,Annotator_1,5,5,4,Highly clear and accurate AI explanation with strong structure; slightly less nuance than benchmark human text.
+AI_M03_2,M03,Mechanics,AI,Annotator_1,5,4,4,Clear and accurate explanation with good flow; could use slightly more intuitive scaffolding.
+H_E01_1,E01,Electricity & Magnetism,human,Annotator_1,5,5,5,"Clear, accurate, and pedagogically complete benchmark explanation."
+AI_E01_1,E01,Electricity & Magnetism,AI,Annotator_1,5,5,4,Highly clear and accurate AI explanation with strong structure; slightly less nuance than benchmark human text.
+AI_E01_2,E01,Electricity & Magnetism,AI,Annotator_1,5,4,4,Clear and accurate explanation with good flow; could use slightly more intuitive scaffolding.
+H_T01_1,T01,Energy / Work / Thermo,human,Annotator_1,5,5,5,"Clear, accurate, and pedagogically complete benchmark explanation."
+AI_T01_1,T01,Energy / Work / Thermo,AI,Annotator_1,5,5,4,Highly clear and accurate AI explanation with strong structure; slightly less nuance than benchmark human text.
+AI_T01_2,T01,Energy / Work / Thermo,AI,Annotator_1,5,4,4,Clear and accurate explanation with good flow; could use slightly more intuitive scaffolding.
+H_M04_1,M04,Mechanics,human,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_M05_1,M05,Mechanics,human,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_M06_1,M06,Mechanics,human,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_M07_1,M07,Mechanics,human,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_M08_1,M08,Mechanics,human,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_E02_1,E02,Electricity & Magnetism,human,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_E03_1,E03,Electricity & Magnetism,human,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_E04_1,E04,Electricity & Magnetism,human,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_E05_1,E05,Electricity & Magnetism,human,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_E06_1,E06,Electricity & Magnetism,human,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_E07_1,E07,Electricity & Magnetism,human,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_E08_1,E08,Electricity & Magnetism,human,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_T02_1,T02,Energy / Work / Thermo,human,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_T03_1,T03,Energy / Work / Thermo,human,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_T04_1,T04,Energy / Work / Thermo,human,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+AI_M04_1,M04,Mechanics,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_M04_2,M04,Mechanics,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_M05_1,M05,Mechanics,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_M05_2,M05,Mechanics,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_M06_1,M06,Mechanics,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_M06_2,M06,Mechanics,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_M07_1,M07,Mechanics,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_M07_2,M07,Mechanics,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_M08_1,M08,Mechanics,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_M08_2,M08,Mechanics,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E02_1,E02,Electricity & Magnetism,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E02_2,E02,Electricity & Magnetism,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E03_1,E03,Electricity & Magnetism,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E03_2,E03,Electricity & Magnetism,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E04_1,E04,Electricity & Magnetism,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E04_2,E04,Electricity & Magnetism,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E05_1,E05,Electricity & Magnetism,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E05_2,E05,Electricity & Magnetism,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E06_1,E06,Electricity & Magnetism,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E06_2,E06,Electricity & Magnetism,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E07_1,E07,Electricity & Magnetism,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E07_2,E07,Electricity & Magnetism,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E08_1,E08,Electricity & Magnetism,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E08_2,E08,Electricity & Magnetism,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_T02_1,T02,Energy / Work / Thermo,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_T02_2,T02,Energy / Work / Thermo,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_T03_1,T03,Energy / Work / Thermo,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_T03_2,T03,Energy / Work / Thermo,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_T04_1,T04,Energy / Work / Thermo,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_T04_2,T04,Energy / Work / Thermo,AI,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+H_P21_01,P21,Mechanics,human,Annotator_1,5,5,5,Human reference explanation; high clarity/correctness with strong conceptual coverage.
+H_P22_01,P22,Electricity & Magnetism,human,Annotator_1,5,4,4,Human reference explanation; high clarity/correctness with strong conceptual coverage.
+H_P23_01,P23,Energy / Work / Thermo,human,Annotator_1,5,5,5,Human reference explanation; high clarity/correctness with strong conceptual coverage.
+H_P24_01,P24,Energy / Work / Thermo,human,Annotator_1,5,4,4,Human reference explanation; high clarity/correctness with strong conceptual coverage.
+H_P25_01,P25,Electricity & Magnetism,human,Annotator_1,5,5,5,Human reference explanation; high clarity/correctness with strong conceptual coverage.
+H_P26_01,P26,Mechanics,human,Annotator_1,5,5,5,Human reference explanation; high clarity/correctness with strong conceptual coverage.
+H_P27_01,P27,Mechanics,human,Annotator_1,5,5,5,Human reference explanation; high clarity/correctness with strong conceptual coverage.
+H_P28_01,P28,Energy / Work / Thermo,human,Annotator_1,5,4,4,Human reference explanation; high clarity/correctness with strong conceptual coverage.
+H_P29_01,P29,Energy / Work / Thermo,human,Annotator_1,5,4,4,Human reference explanation; high clarity/correctness with strong conceptual coverage.
+H_P30_01,P30,Electricity & Magnetism,human,Annotator_1,5,5,5,Human reference explanation; high clarity/correctness with strong conceptual coverage.
+AI_P21_1,P21,Mechanics,AI,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P21_2,P21,Mechanics,AI,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P22_1,P22,Electricity & Magnetism,AI,Annotator_1,5,5,5,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P22_2,P22,Electricity & Magnetism,AI,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P23_1,P23,Energy / Work / Thermo,AI,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P23_2,P23,Energy / Work / Thermo,AI,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P24_1,P24,Energy / Work / Thermo,AI,Annotator_1,5,4,3,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P24_2,P24,Energy / Work / Thermo,AI,Annotator_1,5,4,5,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P25_1,P25,Electricity & Magnetism,AI,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P25_2,P25,Electricity & Magnetism,AI,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P26_1,P26,Mechanics,AI,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P26_2,P26,Mechanics,AI,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P27_1,P27,Mechanics,AI,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P27_2,P27,Mechanics,AI,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P28_1,P28,Energy / Work / Thermo,AI,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P28_2,P28,Energy / Work / Thermo,AI,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P29_1,P29,Energy / Work / Thermo,AI,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P29_2,P29,Energy / Work / Thermo,AI,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P30_1,P30,Electricity & Magnetism,AI,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P30_2,P30,Electricity & Magnetism,AI,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."

@@ -1,0 +1,60 @@
+explanation_id,sentence_id,sentence_text,label_annotator_1,label_annotator_2,agree
+AI_M02_1,1,"In the absence of air resistance, heavier and lighter objects fall at the same rate because gravity accelerates all masses equally.",FRAME,FRAME,1
+AI_M02_1,2,"A heavier object does feel a larger gravitational force, but it also has more inertia, meaning it resists changes in motion more.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+AI_M02_1,3,These two effects balance out.,PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+AI_M02_1,4,Newton’s second law says acceleration equals force divided by mass.,PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+AI_M02_1,5,"Since gravitational force is proportional to mass, the mass cancels out, leaving the same acceleration for all objects.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+AI_M02_1,6,"That is why, in a vacuum, a feather and a hammer dropped together fall side by side and hit the ground at the same time.",PRINCIPLE_DERIVE,VERIFY,0
+AI_M02_2,1,"In the absence of air resistance, heavier and lighter objects fall at the same rate because gravity accelerates all masses equally.",FRAME,FRAME,1
+AI_M02_2,2,"A heavier object does feel a larger gravitational force, but it also has more inertia, meaning it resists changes in motion more.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+AI_M02_2,3,These two effects balance out.,PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+AI_M02_2,4,Newton’s second law says acceleration equals force divided by mass.,PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+AI_M02_2,5,"Since gravitational force is proportional to mass, the mass cancels out, leaving the same acceleration for all objects.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+AI_M02_2,6,"That is why, in a vacuum, a feather and a hammer dropped together fall side by side and hit the ground at the same time.",PRINCIPLE_DERIVE,VERIFY,0
+AI_P21_1,1,"Acceleration is the rate of change of velocity, and velocity includes both speed and direction.",FRAME,FRAME,1
+AI_P21_1,2,"In circular motion, even if the speed stays constant, the direction of motion is continuously changing, so the velocity is changing.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+AI_P21_1,3,"This means there is an acceleration, called centripetal acceleration, which always points toward the center of the circle.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+AI_P21_1,4,The relevant principle is that any change in velocity requires a net force (Newton’s second law).,PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+AI_P21_1,5,"For example, when a car turns at constant speed, you feel pushed sideways because your direction is changing, indicating an inward acceleration toward the center of the turn.",INTUITION,INTUITION,1
+AI_P21_2,1,"Acceleration is defined as any change in velocity, and velocity is a vector, meaning it has both magnitude and direction.",FRAME,FRAME,1
+AI_P21_2,2,"Even if your speed stays constant around a circle, your direction of motion is continuously changing, so your velocity vector is constantly changing.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+AI_P21_2,3,"That change in velocity per unit time is acceleration, called centripetal acceleration, always pointing toward the center of the circle.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+AI_P21_2,4,"Think of swinging a ball on a string: the string pulls the ball inward, constantly redirecting it without speeding it up.",INTUITION,INTUITION,1
+AI_P21_2,5,"Without that inward pull, the ball would fly off in a straight line, as Newton's first law predicts.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+AI_P25_1,1,"When magnetic flux through a loop changes, an induced current appears whose direction opposes that change—this is Lenz’s law.",FRAME,PRINCIPLE_DERIVE,0
+AI_P25_1,2,"The deeper reason is conservation of energy: if the induced current reinforced the change, the system would amplify itself without any external work, creating energy from nothing.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+AI_P25_1,3,"Instead, the induced current produces its own magnetic field that resists the change, so an external agent must do work to alter the flux.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+AI_P25_1,4,"For example, pushing a magnet toward a conducting loop induces a current whose magnetic field repels the magnet, making it feel harder to push—your mechanical work becomes electrical energy.",INTUITION,INTUITION,1
+AI_P25_2,1,"When a magnetic flux through a conducting loop changes, the loop responds by driving a current that creates its own magnetic field to resist that change — this is Faraday's law combined with Lenz's law.",FRAME,PRINCIPLE_DERIVE,0
+AI_P25_2,2,"The deeper reason is energy conservation: if the induced current reinforced the change instead of opposing it, the growing magnetic field would induce a stronger current, which would grow the field further, generating energy from nothing, violating conservation of energy.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+AI_P25_2,3,"Think of it like mechanical inertia — just as a stationary object resists being pushed, a stable magnetic flux resists being disturbed.",INTUITION,INTUITION,1
+AI_P25_2,4,"Nature always pushes back against the disturbance, never amplifying it freely.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+AI_P29_1,1,"Wave speed, frequency, and wavelength are linked by the equation v = fλ, where v is wave speed, f is frequency, and λ is wavelength.",FRAME,PRINCIPLE_DERIVE,0
+AI_P29_1,2,"In a given medium, the wave speed is usually fixed by the medium’s properties, so frequency and wavelength must adjust to keep their product constant.",PRINCIPLE_DERIVE,CAVEAT,0
+AI_P29_1,3,"If the frequency increases, the wavelength decreases proportionally.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+AI_P29_1,4,"For example, if you shake a rope faster, the ripples become more closely spaced rather than moving faster along the rope.",INTUITION,INTUITION,1
+AI_P29_1,5,"The key principle is that the medium sets the speed, so changes in frequency are balanced by opposite changes in wavelength.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+AI_P29_2,1,"All waves obey the relationship v = fλ, where v is wave speed, f is frequency, and λ is wavelength.",FRAME,PRINCIPLE_DERIVE,0
+AI_P29_2,2,"In a given medium, the wave speed is fixed by the physical properties of that medium — for example, sound travels at roughly 343 m/s in air regardless of the source.",INTUITION,CAVEAT,0
+AI_P29_2,3,"This means if you increase the frequency, the wavelength must decrease proportionally to keep the speed constant.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+AI_P29_2,4,"Think of a jump rope being shaken faster: the waves come more frequently, but each individual wave crest is shorter, while the speed at which disturbances travel along the rope stays the same.",INTUITION,INTUITION,1
+H_M02_1,1,"In free fall without air resistance, all objects accelerate downward at the same rate regardless of mass.",FRAME,FRAME,1
+H_M02_1,2,"A heavier object does experience a larger gravitational force, but it also has proportionally greater inertia.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+H_M02_1,3,Newton’s second law says acceleration equals force divided by mass.,PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+H_M02_1,4,"Since gravity provides a force equal to mass times g, the mass cancels out, leaving the same acceleration for all objects.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+H_M02_1,5,This means a hammer and a feather would fall together in a vacuum.,PRINCIPLE_DERIVE,VERIFY,0
+H_M02_1,6,"The differences we see in everyday life come from air resistance, not from mass itself.",CAVEAT,CAVEAT,1
+H_P21_01,1,An object in uniform circular motion can have constant speed but still accelerate because velocity is a vector with both magnitude and direction.,FRAME,FRAME,1
+H_P21_01,2,"In circular motion, the direction of velocity changes continuously, so velocity changes even when speed does not.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+H_P21_01,3,"Acceleration measures that change in velocity, so it is nonzero and points toward the center of the circle.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+H_P21_01,4,Its magnitude is a_c = v^2/r (or r*omega^2).,PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+H_P21_01,5,A tighter turn (smaller r) or higher speed increases this inward acceleration.,PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+H_P25_01,1,Faraday's law says a changing magnetic flux induces an emf.,PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+H_P25_01,2,The minus sign in Faraday's law expresses Lenz's law: the induced current flows in a direction that opposes the change in flux that created it.,PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+H_P25_01,3,This opposition is a consistency condition with energy conservation.,PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+H_P25_01,4,"If induced current reinforced the original change, flux would grow without extra work.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+H_P25_01,5,"Instead, induced effects resist the change, so external work is required to keep changing the field.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+H_P29_01,1,"Wave speed, frequency, and wavelength satisfy v = f lambda.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+H_P29_01,2,"In one medium, speed is set mainly by medium properties, so if frequency increases then wavelength must decrease to keep v the same.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+H_P29_01,3,"Frequency is set by the source, while wavelength adjusts in response to speed in that medium.",PRINCIPLE_DERIVE,PRINCIPLE_DERIVE,1
+H_P29_01,4,This is why high-frequency sound has shorter wavelength than low-frequency sound when both travel through the same air.,VERIFY,VERIFY,1

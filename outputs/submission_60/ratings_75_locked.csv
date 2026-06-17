@@ -1,0 +1,76 @@
+explanation_id,annotator,clarity,correctness,completeness,comments
+H_M01_1,Annotator_1,5,5,5,"Clear, accurate, and pedagogically complete benchmark explanation."
+AI_M01_1,Annotator_1,5,5,4,Highly clear and accurate AI explanation with strong structure; slightly less nuance than benchmark human text.
+AI_M01_2,Annotator_1,4,5,4,Clear and accurate explanation with good flow; could use slightly more intuitive scaffolding.
+H_M02_1,Annotator_1,5,5,5,"Clear, accurate, and pedagogically complete benchmark explanation."
+AI_M02_1,Annotator_1,5,5,4,Highly clear and accurate AI explanation with strong structure; slightly less nuance than benchmark human text.
+AI_M02_2,Annotator_1,4,5,4,Clear and accurate explanation with good flow; could use slightly more intuitive scaffolding.
+H_M03_1,Annotator_1,5,5,5,"Clear, accurate, and pedagogically complete benchmark explanation."
+AI_M03_1,Annotator_1,5,5,4,Highly clear and accurate AI explanation with strong structure; slightly less nuance than benchmark human text.
+AI_M03_2,Annotator_1,4,5,4,Clear and accurate explanation with good flow; could use slightly more intuitive scaffolding.
+H_E01_1,Annotator_1,5,5,5,"Clear, accurate, and pedagogically complete benchmark explanation."
+AI_E01_1,Annotator_1,5,5,4,Highly clear and accurate AI explanation with strong structure; slightly less nuance than benchmark human text.
+AI_E01_2,Annotator_1,4,5,4,Clear and accurate explanation with good flow; could use slightly more intuitive scaffolding.
+H_T01_1,Annotator_1,5,5,5,"Clear, accurate, and pedagogically complete benchmark explanation."
+AI_T01_1,Annotator_1,5,5,4,Highly clear and accurate AI explanation with strong structure; slightly less nuance than benchmark human text.
+AI_T01_2,Annotator_1,4,5,4,Clear and accurate explanation with good flow; could use slightly more intuitive scaffolding.
+H_M01_1,Annotator_2,5,5,4,Very clear and accurate explanation. Slightly less complete only because it stays concise rather than elaborating further.
+AI_M01_1,Annotator_2,4,5,4,Accurate and clear explanation with solid structure. Could use a bit more intuition or verification to feel fully complete.
+AI_M01_2,Annotator_2,5,5,4,"Strong explanatory flow and accuracy. Slightly more polished than the other AI variant, though still somewhat limited in completeness."
+H_M02_1,Annotator_2,5,5,4,Very clear and accurate explanation. Slightly less complete only because it stays concise rather than elaborating further.
+AI_M02_1,Annotator_2,4,5,4,Accurate and clear explanation with solid structure. Could use a bit more intuition or verification to feel fully complete.
+AI_M02_2,Annotator_2,5,5,4,"Strong explanatory flow and accuracy. Slightly more polished than the other AI variant, though still somewhat limited in completeness."
+H_M03_1,Annotator_2,5,5,4,Very clear and accurate explanation. Slightly less complete only because it stays concise rather than elaborating further.
+AI_M03_1,Annotator_2,4,5,4,Accurate and clear explanation with solid structure. Could use a bit more intuition or verification to feel fully complete.
+AI_M03_2,Annotator_2,5,5,4,"Strong explanatory flow and accuracy. Slightly more polished than the other AI variant, though still somewhat limited in completeness."
+H_E01_1,Annotator_2,5,5,4,Very clear and accurate explanation. Slightly less complete only because it stays concise rather than elaborating further.
+AI_E01_1,Annotator_2,4,5,4,Accurate and clear explanation with solid structure. Could use a bit more intuition or verification to feel fully complete.
+AI_E01_2,Annotator_2,5,5,4,"Strong explanatory flow and accuracy. Slightly more polished than the other AI variant, though still somewhat limited in completeness."
+H_T01_1,Annotator_2,5,5,4,Very clear and accurate explanation. Slightly less complete only because it stays concise rather than elaborating further.
+AI_T01_1,Annotator_2,4,5,4,Accurate and clear explanation with solid structure. Could use a bit more intuition or verification to feel fully complete.
+AI_T01_2,Annotator_2,5,5,4,"Strong explanatory flow and accuracy. Slightly more polished than the other AI variant, though still somewhat limited in completeness."
+H_M04_1,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_M05_1,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_M06_1,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_M07_1,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_M08_1,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_E02_1,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_E03_1,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_E04_1,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_E05_1,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_E06_1,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_E07_1,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_E08_1,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_T02_1,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_T03_1,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+H_T04_1,Annotator_1,5,5,5,"Human benchmark; clear, correct, complete."
+AI_M04_1,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_M04_2,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_M05_1,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_M05_2,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_M06_1,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_M06_2,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_M07_1,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_M07_2,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_M08_1,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_M08_2,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E02_1,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E02_2,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E03_1,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E03_2,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E04_1,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E04_2,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E05_1,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E05_2,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E06_1,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E06_2,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E07_1,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E07_2,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E08_1,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_E08_2,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_T02_1,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_T02_2,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_T03_1,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_T03_2,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_T04_1,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.
+AI_T04_2,Annotator_1,5,5,4,Clear and correct AI explanation; slightly less nuanced than human benchmark.

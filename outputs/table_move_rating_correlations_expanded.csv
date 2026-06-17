@@ -1,0 +1,11 @@
+move,metric,pearson_r
+FRAME,clarity,0.2701
+FRAME,completeness,0.0482
+PRINCIPLE_DERIVE,clarity,
+PRINCIPLE_DERIVE,completeness,
+VERIFY,clarity,0.1614
+VERIFY,completeness,-0.0092
+INTUITION,clarity,0.0109
+INTUITION,completeness,-0.0571
+CAVEAT,clarity,-0.024
+CAVEAT,completeness,-0.0

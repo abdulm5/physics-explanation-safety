@@ -1,0 +1,633 @@
+explanation_id,sentence_id,sentence_text,annotator,label,notes
+H_M01_1,1,"Acceleration is defined as any change in velocity, and velocity includes both speed and direction.",Annotator One,FRAME,QC_OK: FRAME label confirmed
+H_M01_1,2,"Even when an object moves in a circle at a constant speed, its direction changes continuously.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+H_M01_1,3,"At every point on the path, the velocity vector points in a new direction, tangent to the circle.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+H_M01_1,4,"Because the direction changes, the velocity changes, which means the object is accelerating.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+H_M01_1,5,This acceleration points inward toward the center of the circle and is called centripetal acceleration.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+H_M01_1,6,"By Newton’s second law, a net inward force must act to produce this acceleration, whether from tension, gravity, or friction.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M01_1,1,"An object moving in a circle accelerates because acceleration means any change in velocity, and velocity includes both speed and direction.",Annotator One,FRAME,QC_OK: FRAME label confirmed
+AI_M01_1,2,"Even if the speed stays the same, the direction is constantly changing as the object moves around the circle.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M01_1,3,"At every instant, the object’s velocity points in a slightly new direction.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M01_1,4,That change in direction requires an inward acceleration called centripetal acceleration.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M01_1,5,"Without it, the object would move in a straight line instead.",Annotator One,VERIFY,QC_OK: VERIFY label confirmed
+AI_M01_1,6,"For example, when a car turns, the tires provide the inward force needed to keep changing the car’s direction, which is why turning creates acceleration.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M01_2,1,"An object moving in a circle accelerates because acceleration means any change in velocity, and velocity includes both speed and direction.",Annotator One,FRAME,QC_OK: FRAME label confirmed
+AI_M01_2,2,"Even if the speed stays the same, the direction is constantly changing as the object moves around the circle.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M01_2,3,"At every instant, the object’s velocity points in a slightly new direction.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M01_2,4,That change in direction requires an inward acceleration called centripetal acceleration.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M01_2,5,"Without it, the object would move in a straight line instead.",Annotator One,VERIFY,QC_OK: VERIFY label confirmed
+AI_M01_2,6,"For example, when a car turns, the tires provide the inward force needed to keep changing the car’s direction, which is why turning creates acceleration.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+H_M02_1,1,"In free fall without air resistance, all objects accelerate downward at the same rate regardless of mass.",Annotator One,FRAME,QC_OK: FRAME label confirmed
+H_M02_1,2,"A heavier object does experience a larger gravitational force, but it also has proportionally greater inertia.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+H_M02_1,3,Newton’s second law says acceleration equals force divided by mass.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+H_M02_1,4,"Since gravity provides a force equal to mass times g, the mass cancels out, leaving the same acceleration for all objects.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+H_M02_1,5,This means a hammer and a feather would fall together in a vacuum.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+H_M02_1,6,"The differences we see in everyday life come from air resistance, not from mass itself.",Annotator One,CAVEAT,QC_OK: CAVEAT label confirmed
+AI_M02_1,1,"In the absence of air resistance, heavier and lighter objects fall at the same rate because gravity accelerates all masses equally.",Annotator One,FRAME,QC_OK: FRAME label confirmed
+AI_M02_1,2,"A heavier object does feel a larger gravitational force, but it also has more inertia, meaning it resists changes in motion more.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M02_1,3,These two effects balance out.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M02_1,4,Newton’s second law says acceleration equals force divided by mass.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M02_1,5,"Since gravitational force is proportional to mass, the mass cancels out, leaving the same acceleration for all objects.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M02_1,6,"That is why, in a vacuum, a feather and a hammer dropped together fall side by side and hit the ground at the same time.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M02_2,1,"In the absence of air resistance, heavier and lighter objects fall at the same rate because gravity accelerates all masses equally.",Annotator One,FRAME,QC_OK: FRAME label confirmed
+AI_M02_2,2,"A heavier object does feel a larger gravitational force, but it also has more inertia, meaning it resists changes in motion more.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M02_2,3,These two effects balance out.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M02_2,4,Newton’s second law says acceleration equals force divided by mass.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M02_2,5,"Since gravitational force is proportional to mass, the mass cancels out, leaving the same acceleration for all objects.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M02_2,6,"That is why, in a vacuum, a feather and a hammer dropped together fall side by side and hit the ground at the same time.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+H_M03_1,1,"When a car suddenly accelerates forward, your body tends to remain at rest because of inertia.",Annotator One,FRAME,QC_OK: FRAME label confirmed
+H_M03_1,2,Newton’s first law says an object will stay at rest or keep moving at constant velocity unless acted on by a net external force.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+H_M03_1,3,"The seat pushes your body forward, but your body initially resists that change.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+H_M03_1,4,This makes it feel as though you are being pushed backward into the seat.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+H_M03_1,5,"In reality, there is no backward force acting on you.",Annotator One,VERIFY,QC_OK: VERIFY label confirmed
+H_M03_1,6,The sensation comes from your body resisting the forward acceleration and adjusting to the car’s new motion.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M03_1,1,"A passenger feels pushed backward when a car suddenly accelerates forward because of inertia, the tendency of objects to resist changes in motion.",Annotator One,FRAME,QC_OK: FRAME label confirmed
+AI_M03_1,2,"Before the car moves, both the passenger and the car are at rest.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M03_1,3,"When the car speeds up, the seat pushes the passenger forward to make them move with the car.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M03_1,4,But the passenger’s body initially wants to stay where it was.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M03_1,5,This makes it feel like they are being pushed backward into the seat.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M03_1,6,"In reality, the seat is pushing them forward.",Annotator One,VERIFY,QC_OK: VERIFY label confirmed
+AI_M03_1,7,The backward feeling is just the sensation of their body resisting the car’s sudden change in speed.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M03_2,1,"A passenger feels pushed backward when a car suddenly accelerates forward because of inertia, the tendency of objects to resist changes in motion.",Annotator One,FRAME,QC_OK: FRAME label confirmed
+AI_M03_2,2,"Before the car moves, both the passenger and the car are at rest.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M03_2,3,"When the car speeds up, the seat pushes the passenger forward to make them move with the car.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M03_2,4,But the passenger’s body initially wants to stay where it was.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M03_2,5,This makes it feel like they are being pushed backward into the seat.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_M03_2,6,"In reality, the seat is pushing them forward.",Annotator One,VERIFY,QC_OK: VERIFY label confirmed
+AI_M03_2,7,The backward feeling is just the sensation of their body resisting the car’s sudden change in speed.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+H_E01_1,1,Ohm’s law says current equals voltage divided by resistance.,Annotator One,FRAME,QC_OK: FRAME label confirmed
+H_E01_1,2,"In a simple circuit with a fixed battery voltage, increasing resistance reduces current.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+H_E01_1,3,"Resistance makes it harder for electric charge to move through a material, so fewer charges pass a point each second.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+H_E01_1,4,You can think of it like water flowing through a pipe: narrowing the pipe makes it harder for water to flow.,Annotator One,INTUITION,QC_OK: INTUITION label confirmed
+H_E01_1,5,A resistor does not block charge completely; it limits the flow and converts some electrical energy into heat or light.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+H_E01_1,6,This is why adding more resistance in series lowers the total current in the circuit.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_E01_1,1,Adding resistance reduces current in a simple circuit because resistance makes it harder for electric charges to move through the material.,Annotator One,FRAME,QC_OK: FRAME label confirmed
+AI_E01_1,2,"A battery provides a voltage, which acts like a push that drives charges.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_E01_1,3,Current is the rate of charge flow.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_E01_1,4,"According to Ohm’s law, current equals voltage divided by resistance.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_E01_1,5,"If voltage stays the same and resistance increases, current must decrease.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_E01_1,6,"Resistance causes charges to collide more often with atoms in the material, which slows their overall motion.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_E01_1,7,"That is why adding a resistor, longer wire, or thinner wire reduces the amount of current flowing in the circuit.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_E01_2,1,Adding resistance reduces current in a simple circuit because resistance makes it harder for electric charges to move through the material.,Annotator One,FRAME,QC_OK: FRAME label confirmed
+AI_E01_2,2,"A battery provides a voltage, which acts like a push that drives charges.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_E01_2,3,Current is the rate of charge flow.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_E01_2,4,"According to Ohm’s law, current equals voltage divided by resistance.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_E01_2,5,"If voltage stays the same and resistance increases, current must decrease.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_E01_2,6,"Resistance causes charges to collide more often with atoms in the material, which slows their overall motion.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_E01_2,7,"That is why adding a resistor, longer wire, or thinner wire reduces the amount of current flowing in the circuit.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+H_T01_1,1,Work in physics is defined as force times displacement times the cosine of the angle between them.,Annotator One,FRAME,QC_OK: FRAME label confirmed
+H_T01_1,2,Work measures how much a force transfers energy in the direction of motion.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+H_T01_1,3,"If the force is perpendicular to the displacement, the angle is 90 degrees and the cosine is zero.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+H_T01_1,4,"That means no energy is transferred in the direction the object moves, so the work is zero.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+H_T01_1,5,"For example, gravity does no work on a bag carried horizontally because gravity acts downward while the bag moves sideways.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+H_T01_1,6,A force can act on an object without doing work if it does not help move it along its path.,Annotator One,VERIFY,QC_OK: VERIFY label confirmed
+AI_T01_1,1,Work is zero when force is perpendicular to displacement because work depends on the component of force in the direction of motion.,Annotator One,FRAME,QC_OK: FRAME label confirmed
+AI_T01_1,2,The formula for work is force times displacement times the cosine of the angle between them.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_T01_1,3,"If the force is perpendicular, the angle is 90 degrees, and cosine of 90 degrees is zero.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_T01_1,4,That means the force does not transfer energy into or out of the object’s motion along its path.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_T01_1,5,"For example, in uniform circular motion, the centripetal force points inward while motion is tangent to the circle, so the centripetal force does no work.",Annotator One,INTUITION,QC_OK: INTUITION label confirmed
+AI_T01_2,1,Work is zero when force is perpendicular to displacement because work depends on the component of force in the direction of motion.,Annotator One,FRAME,QC_OK: FRAME label confirmed
+AI_T01_2,2,The formula for work is force times displacement times the cosine of the angle between them.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_T01_2,3,"If the force is perpendicular, the angle is 90 degrees, and cosine of 90 degrees is zero.",Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_T01_2,4,That means the force does not transfer energy into or out of the object’s motion along its path.,Annotator One,PRINCIPLE_DERIVE,QC_OK: PRINCIPLE_DERIVE label confirmed
+AI_T01_2,5,"For example, in uniform circular motion, the centripetal force points inward while motion is tangent to the circle, so the centripetal force does no work.",Annotator One,INTUITION,QC_OK: INTUITION label confirmed
+H_M01_1,1,"Acceleration is defined as any change in velocity, and velocity includes both speed and direction.",Annotator Two,FRAME,T2 FRAMEvsPRINCIPLE: conceptual setup/definitions before reasoning
+H_M01_1,2,"Even when an object moves in a circle at a constant speed, its direction changes continuously.",Annotator Two,PRINCIPLE_DERIVE,
+H_M01_1,3,"At every point on the path, the velocity vector points in a new direction, tangent to the circle.",Annotator Two,PRINCIPLE_DERIVE,T1 PRINCIPLEvsDERIVE: intermediate reasoning step
+H_M01_1,4,"Because the direction changes, the velocity changes, which means the object is accelerating.",Annotator Two,PRINCIPLE_DERIVE,T1 PRINCIPLEvsDERIVE: causal inference to acceleration
+H_M01_1,5,This acceleration points inward toward the center of the circle and is called centripetal acceleration.,Annotator Two,PRINCIPLE_DERIVE,
+H_M01_1,6,"By Newton’s second law, a net inward force must act to produce this acceleration, whether from tension, gravity, or friction.",Annotator Two,PRINCIPLE_DERIVE,
+AI_M01_1,1,"An object moving in a circle accelerates because acceleration means any change in velocity, and velocity includes both speed and direction.",Annotator Two,FRAME,
+AI_M01_1,2,"Even if the speed stays the same, the direction is constantly changing as the object moves around the circle.",Annotator Two,PRINCIPLE_DERIVE,
+AI_M01_1,3,"At every instant, the object’s velocity points in a slightly new direction.",Annotator Two,PRINCIPLE_DERIVE,T1 PRINCIPLEvsDERIVE: step in directional-change reasoning chain
+AI_M01_1,4,That change in direction requires an inward acceleration called centripetal acceleration.,Annotator Two,PRINCIPLE_DERIVE,
+AI_M01_1,5,"Without it, the object would move in a straight line instead.",Annotator Two,VERIFY,
+AI_M01_1,6,"For example, when a car turns, the tires provide the inward force needed to keep changing the car’s direction, which is why turning creates acceleration.",Annotator Two,INTUITION,T4 PRINCIPLEvsINTUITION: concrete everyday example for intuition
+AI_M01_2,1,"An object moving in a circle accelerates because acceleration means any change in velocity, and velocity includes both speed and direction.",Annotator Two,FRAME,
+AI_M01_2,2,"Even if the speed stays the same, the direction is constantly changing as the object moves around the circle.",Annotator Two,PRINCIPLE_DERIVE,
+AI_M01_2,3,"At every instant, the object’s velocity points in a slightly new direction.",Annotator Two,PRINCIPLE_DERIVE,T1 PRINCIPLEvsDERIVE: step in directional-change reasoning chain
+AI_M01_2,4,That change in direction requires an inward acceleration called centripetal acceleration.,Annotator Two,PRINCIPLE_DERIVE,
+AI_M01_2,5,"Without it, the object would move in a straight line instead.",Annotator Two,VERIFY,
+AI_M01_2,6,"For example, when a car turns, the tires provide the inward force needed to keep changing the car’s direction, which is why turning creates acceleration.",Annotator Two,INTUITION,T4 PRINCIPLEvsINTUITION: concrete everyday example for intuition
+H_M02_1,1,"In free fall without air resistance, all objects accelerate downward at the same rate regardless of mass.",Annotator Two,FRAME,
+H_M02_1,2,"A heavier object does experience a larger gravitational force, but it also has proportionally greater inertia.",Annotator Two,PRINCIPLE_DERIVE,
+H_M02_1,3,Newton’s second law says acceleration equals force divided by mass.,Annotator Two,PRINCIPLE_DERIVE,
+H_M02_1,4,"Since gravity provides a force equal to mass times g, the mass cancels out, leaving the same acceleration for all objects.",Annotator Two,PRINCIPLE_DERIVE,T1 PRINCIPLEvsDERIVE: mass-cancellation inferential step
+H_M02_1,5,This means a hammer and a feather would fall together in a vacuum.,Annotator Two,VERIFY,T3 VERIFYvsCAVEAT: hammer-feather example checks conclusion
+H_M02_1,6,"The differences we see in everyday life come from air resistance, not from mass itself.",Annotator Two,CAVEAT,
+AI_M02_1,1,"In the absence of air resistance, heavier and lighter objects fall at the same rate because gravity accelerates all masses equally.",Annotator Two,FRAME,
+AI_M02_1,2,"A heavier object does feel a larger gravitational force, but it also has more inertia, meaning it resists changes in motion more.",Annotator Two,PRINCIPLE_DERIVE,
+AI_M02_1,3,These two effects balance out.,Annotator Two,PRINCIPLE_DERIVE,
+AI_M02_1,4,Newton’s second law says acceleration equals force divided by mass.,Annotator Two,PRINCIPLE_DERIVE,
+AI_M02_1,5,"Since gravitational force is proportional to mass, the mass cancels out, leaving the same acceleration for all objects.",Annotator Two,PRINCIPLE_DERIVE,T1 PRINCIPLEvsDERIVE: algebraic cancellation as inferential step
+AI_M02_1,6,"That is why, in a vacuum, a feather and a hammer dropped together fall side by side and hit the ground at the same time.",Annotator Two,VERIFY,T3 VERIFYvsCAVEAT: vacuum example sanity-checks derived claim
+AI_M02_2,1,"In the absence of air resistance, heavier and lighter objects fall at the same rate because gravity accelerates all masses equally.",Annotator Two,FRAME,
+AI_M02_2,2,"A heavier object does feel a larger gravitational force, but it also has more inertia, meaning it resists changes in motion more.",Annotator Two,PRINCIPLE_DERIVE,
+AI_M02_2,3,These two effects balance out.,Annotator Two,PRINCIPLE_DERIVE,
+AI_M02_2,4,Newton’s second law says acceleration equals force divided by mass.,Annotator Two,PRINCIPLE_DERIVE,
+AI_M02_2,5,"Since gravitational force is proportional to mass, the mass cancels out, leaving the same acceleration for all objects.",Annotator Two,PRINCIPLE_DERIVE,T1 PRINCIPLEvsDERIVE: algebraic cancellation as inferential step
+AI_M02_2,6,"That is why, in a vacuum, a feather and a hammer dropped together fall side by side and hit the ground at the same time.",Annotator Two,VERIFY,T3 VERIFYvsCAVEAT: vacuum example sanity-checks derived claim
+H_E01_1,1,Ohm’s law says current equals voltage divided by resistance.,Annotator Two,PRINCIPLE_DERIVE,T2 FRAMEvsPRINCIPLE: explicit law invocation is central
+H_E01_1,2,"In a simple circuit with a fixed battery voltage, increasing resistance reduces current.",Annotator Two,PRINCIPLE_DERIVE,T1 PRINCIPLEvsDERIVE: applies fixed-voltage condition to infer trend
+H_E01_1,3,"Resistance makes it harder for electric charge to move through a material, so fewer charges pass a point each second.",Annotator Two,PRINCIPLE_DERIVE,
+H_E01_1,4,You can think of it like water flowing through a pipe: narrowing the pipe makes it harder for water to flow.,Annotator Two,INTUITION,
+H_E01_1,5,A resistor does not block charge completely; it limits the flow and converts some electrical energy into heat or light.,Annotator Two,CAVEAT,T3 VERIFYvsCAVEAT: qualifies misconception with limitation nuance
+H_E01_1,6,This is why adding more resistance in series lowers the total current in the circuit.,Annotator Two,PRINCIPLE_DERIVE,
+AI_E01_1,1,Adding resistance reduces current in a simple circuit because resistance makes it harder for electric charges to move through the material.,Annotator Two,FRAME,
+AI_E01_1,2,"A battery provides a voltage, which acts like a push that drives charges.",Annotator Two,INTUITION,"T4 PRINCIPLEvsINTUITION: uses analogy cue ""acts like"""
+AI_E01_1,3,Current is the rate of charge flow.,Annotator Two,PRINCIPLE_DERIVE,T1 PRINCIPLEvsDERIVE: conceptual definition
+AI_E01_1,4,"According to Ohm’s law, current equals voltage divided by resistance.",Annotator Two,PRINCIPLE_DERIVE,
+AI_E01_1,5,"If voltage stays the same and resistance increases, current must decrease.",Annotator Two,PRINCIPLE_DERIVE,T1 PRINCIPLEvsDERIVE: conditional inference from fixed-voltage setup
+AI_E01_1,6,"Resistance causes charges to collide more often with atoms in the material, which slows their overall motion.",Annotator Two,PRINCIPLE_DERIVE,
+AI_E01_1,7,"That is why adding a resistor, longer wire, or thinner wire reduces the amount of current flowing in the circuit.",Annotator Two,PRINCIPLE_DERIVE,
+AI_E01_2,1,Adding resistance reduces current in a simple circuit because resistance makes it harder for electric charges to move through the material.,Annotator Two,FRAME,
+AI_E01_2,2,"A battery provides a voltage, which acts like a push that drives charges.",Annotator Two,INTUITION,"T4 PRINCIPLEvsINTUITION: uses analogy cue ""acts like"""
+AI_E01_2,3,Current is the rate of charge flow.,Annotator Two,PRINCIPLE_DERIVE,T1 PRINCIPLEvsDERIVE: conceptual definition
+AI_E01_2,4,"According to Ohm’s law, current equals voltage divided by resistance.",Annotator Two,PRINCIPLE_DERIVE,
+AI_E01_2,5,"If voltage stays the same and resistance increases, current must decrease.",Annotator Two,PRINCIPLE_DERIVE,T1 PRINCIPLEvsDERIVE: conditional inference from fixed-voltage setup
+AI_E01_2,6,"Resistance causes charges to collide more often with atoms in the material, which slows their overall motion.",Annotator Two,PRINCIPLE_DERIVE,
+AI_E01_2,7,"That is why adding a resistor, longer wire, or thinner wire reduces the amount of current flowing in the circuit.",Annotator Two,PRINCIPLE_DERIVE,
+H_T01_1,1,Work in physics is defined as force times displacement times the cosine of the angle between them.,Annotator Two,PRINCIPLE_DERIVE,T2 FRAMEvsPRINCIPLE: defining equation is governing principle
+H_T01_1,2,Work measures how much a force transfers energy in the direction of motion.,Annotator Two,FRAME,T2 FRAMEvsPRINCIPLE: conceptual framing of what work measures
+H_T01_1,3,"If the force is perpendicular to the displacement, the angle is 90 degrees and the cosine is zero.",Annotator Two,PRINCIPLE_DERIVE,
+H_T01_1,4,"That means no energy is transferred in the direction the object moves, so the work is zero.",Annotator Two,PRINCIPLE_DERIVE,
+H_T01_1,5,"For example, gravity does no work on a bag carried horizontally because gravity acts downward while the bag moves sideways.",Annotator Two,INTUITION,T4 PRINCIPLEvsINTUITION: concrete illustrative example
+H_T01_1,6,A force can act on an object without doing work if it does not help move it along its path.,Annotator Two,VERIFY,
+AI_T01_1,1,Work is zero when force is perpendicular to displacement because work depends on the component of force in the direction of motion.,Annotator Two,FRAME,
+AI_T01_1,2,The formula for work is force times displacement times the cosine of the angle between them.,Annotator Two,PRINCIPLE_DERIVE,T1 PRINCIPLEvsDERIVE: explicit formula statement
+AI_T01_1,3,"If the force is perpendicular, the angle is 90 degrees, and cosine of 90 degrees is zero.",Annotator Two,PRINCIPLE_DERIVE,
+AI_T01_1,4,That means the force does not transfer energy into or out of the object’s motion along its path.,Annotator Two,PRINCIPLE_DERIVE,
+AI_T01_1,5,"For example, in uniform circular motion, the centripetal force points inward while motion is tangent to the circle, so the centripetal force does no work.",Annotator Two,INTUITION,
+AI_T01_2,1,Work is zero when force is perpendicular to displacement because work depends on the component of force in the direction of motion.,Annotator Two,FRAME,
+AI_T01_2,2,The formula for work is force times displacement times the cosine of the angle between them.,Annotator Two,PRINCIPLE_DERIVE,T1 PRINCIPLEvsDERIVE: explicit formula statement
+AI_T01_2,3,"If the force is perpendicular, the angle is 90 degrees, and cosine of 90 degrees is zero.",Annotator Two,PRINCIPLE_DERIVE,
+AI_T01_2,4,That means the force does not transfer energy into or out of the object’s motion along its path.,Annotator Two,PRINCIPLE_DERIVE,
+AI_T01_2,5,"For example, in uniform circular motion, the centripetal force points inward while motion is tangent to the circle, so the centripetal force does no work.",Annotator Two,INTUITION,
+H_M04_1,1,A seatbelt reduces injury because it increases the time over which your momentum changes during a sudden stop.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+H_M04_1,2,The impulse-momentum theorem says that force times time equals the change in momentum.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_M04_1,3,"In a crash, your body must go from moving at car speed to rest either way.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_M04_1,4,"If that happens in a very short time, the force is extremely large.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_M04_1,5,"A seatbelt stretches slightly and spreads the stopping process over a longer time, reducing the peak force on your body.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_M04_1,6,"It also keeps you from hitting the dashboard or windshield, which greatly lowers injury risk.",Annotator One,VERIFY,Step4 full-pass (5-label schema)
+H_M05_1,1,A truck is harder to stop than a bicycle moving at the same speed because the truck has much more momentum.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+H_M05_1,2,"Momentum equals mass times velocity, so even at the same speed, the truck’s much larger mass gives it far greater momentum.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_M05_1,3,"To stop a moving object, you must reduce its momentum to zero, which requires an impulse.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_M05_1,4,"A larger momentum means you need more force, more time, or both to stop it.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_M05_1,5,This is why trucks need stronger brakes and longer stopping distances.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+H_M05_1,6,"Greater mass also means greater inertia, which makes the truck resist changes in motion more strongly.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_M06_1,1,A person standing still on ice still exerts a force on the surface because forces always come in pairs.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+H_M06_1,2,"Your weight pulls downward due to gravity, so you push down on the ice.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_M06_1,3,"According to Newton’s third law, the ice pushes upward on you with an equal and opposite normal force.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_M06_1,4,"These two forces do not cancel because they act on different objects: one acts on you, and one acts on the ice.",Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+H_M06_1,5,"Even when you are standing still, you are continuously exerting force downward on the surface beneath you simply by making contact with it.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_M07_1,1,Friction does not always oppose motion itself; it opposes relative slipping between surfaces.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+H_M07_1,2,"When you walk, your foot pushes backward against the ground.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_M07_1,3,"Static friction from the ground then pushes you forward, allowing you to move.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_M07_1,4,"Without friction, your feet would slip and you could not walk effectively.",Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+H_M07_1,5,"The same idea explains how cars accelerate and turn: tires push against the road, and friction provides the forward or sideways force needed.",Annotator One,INTUITION,Step4 full-pass (5-label schema)
+H_M07_1,6,Friction only directly resists motion when surfaces slide past each other.,Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+H_M07_1,7,"In many everyday situations, friction is what makes controlled motion possible.",Annotator One,VERIFY,Step4 full-pass (5-label schema)
+H_M08_1,1,A rocket accelerates in space by pushing exhaust gases backward at high speed.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+H_M08_1,2,"By Newton’s third law, every action force has an equal and opposite reaction force.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_M08_1,3,The rocket engine burns fuel and expels hot gas out of the nozzle.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_M08_1,4,"As the rocket pushes the gas backward, the gas pushes the rocket forward with an equal and opposite force called thrust.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_M08_1,5,A rocket does not need air to push against because it carries its own fuel and propellant.,Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+H_M08_1,6,This is why rockets work in the vacuum of space and can maneuver far from Earth’s atmosphere.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+H_E02_1,1,A battery stores chemical potential energy and converts it into electrical energy through chemical reactions.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+H_E02_1,2,"When the circuit is closed, these reactions move charge and maintain a voltage difference between the battery terminals.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_E02_1,3,"As current flows, the reactants inside the battery are gradually used up.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_E02_1,4,"Over time, the battery can no longer sustain the same chemical reactions, so the voltage drops and the battery eventually runs out.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_E02_1,5,Some energy is also lost as heat because of the battery’s internal resistance.,Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+H_E02_1,6,Rechargeable batteries work by reversing the chemical reactions using an external power source to restore the stored energy.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_E03_1,1,A spark happens when excess electric charge builds up and creates a strong electric field across a small gap of air.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+H_E03_1,2,"Air is normally an insulator, but if the electric field becomes strong enough, it can ionize the air molecules.",Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+H_E03_1,3,This strips electrons from atoms and makes the air temporarily conductive.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_E03_1,4,"The stored charge then suddenly rushes across the gap as a brief electric current, producing a spark, a flash of light, and a snapping sound.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_E03_1,5,Static electricity from walking on carpet often causes this effect.,Annotator One,INTUITION,Step4 full-pass (5-label schema)
+H_E03_1,6,"Lightning is the same basic process, but on a much larger scale in the atmosphere.",Annotator One,INTUITION,Step4 full-pass (5-label schema)
+H_E04_1,1,A compass needle is a small bar magnet that can rotate freely.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+H_E04_1,2,Earth behaves like a giant magnet and produces a magnetic field around the planet.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_E04_1,3,"When the compass is placed in this field, the needle experiences a torque that causes it to rotate.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_E04_1,4,The needle aligns itself with the magnetic field lines because that is the most stable orientation.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_E04_1,5,This makes the needle point roughly north-south.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+H_E04_1,6,The compass works because magnetic fields exert forces and torques on other magnets.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_E04_1,7,That simple interaction makes the compass a reliable tool for navigation.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+H_E05_1,1,A changing magnetic field through a wire loop changes the magnetic flux through the loop.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+H_E05_1,2,"Faraday’s law says that a changing magnetic flux induces an electromotive force, which is like a voltage around the loop.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_E05_1,3,"If the loop is made of conducting wire, this induced voltage drives a current.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_E05_1,4,"A steady magnetic field, even a strong one, does not create current by itself.",Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+H_E05_1,5,Only change matters.,Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+H_E05_1,6,"This principle is used in electric generators, transformers, induction stoves, and wireless chargers.",Annotator One,INTUITION,Step4 full-pass (5-label schema)
+H_E05_1,7,Changing magnetic fields are one of the main ways electricity can be produced without direct contact.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+H_E06_1,1,"In a series circuit, there is only one path for electric charge to flow.",Annotator One,FRAME,Step4 full-pass (5-label schema)
+H_E06_1,2,Current is the amount of charge passing a point each second.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_E06_1,3,"Because charge is conserved, the same amount of charge must pass every point in the circuit in the same amount of time.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_E06_1,4,"If current were different in different parts of the circuit, charge would have to build up somewhere, which does not happen in a steady circuit.",Annotator One,VERIFY,Step4 full-pass (5-label schema)
+H_E06_1,5,"This is why the current is the same through every component in a series circuit, even though the voltage may change across different parts.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_E07_1,1,Voltage is electric potential energy per unit charge.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+H_E07_1,2,"As current moves through a resistor, bulb, or motor, some of that electrical energy is converted into other forms such as heat, light, or motion.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_E07_1,3,"That means the charge leaves the component with less energy than it had before, so the voltage drops across the component.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_E07_1,4,"In a complete loop, energy is conserved: the total energy supplied by the battery equals the total energy used by all the components.",Annotator One,VERIFY,Step4 full-pass (5-label schema)
+H_E07_1,5,This is why the voltage drops across each part of a circuit add up to the battery’s total voltage.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_E08_1,1,Two neutral objects can still attract electrically because charges inside them can shift.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+H_E08_1,2,"A nearby charged object causes the positive and negative charges in a neutral object to rearrange slightly, a process called polarization.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_E08_1,3,"The side closer to the charged object becomes slightly opposite in charge, while the far side becomes slightly like-charged.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_E08_1,4,"Because electric force gets weaker with distance, the closer attractive force is stronger than the farther repulsive force.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_E08_1,5,This creates a net attraction even though the object is still overall neutral.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_E08_1,6,This is why a charged balloon can stick to a wall.,Annotator One,INTUITION,Step4 full-pass (5-label schema)
+H_T02_1,1,Rubbing your hands together creates friction between your skin surfaces.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+H_T02_1,2,The mechanical work you do against friction is converted into thermal energy.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_T02_1,3,"On a microscopic level, friction increases the random motion of molecules in your skin, which raises the temperature.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_T02_1,4,Your nerves detect this increase as warmth.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+H_T02_1,5,This is a common example of mechanical energy turning into heat.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+H_T02_1,6,"The same principle explains why brakes get hot, why a drill bit heats up, and why sliding objects can warm up due to friction.",Annotator One,INTUITION,Step4 full-pass (5-label schema)
+H_T02_1,7,Energy is not lost; it is simply transformed into a different form.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+H_T03_1,1,Temperature is related to the average kinetic energy of gas molecules.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+H_T03_1,2,"When a sealed container is heated, the gas molecules move faster on average.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_T03_1,3,Faster molecules hit the walls more often and with greater force.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_T03_1,4,"Since the volume of the container stays fixed, the gas cannot expand to relieve the extra motion.",Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+H_T03_1,5,"As a result, the pressure rises.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_T03_1,6,This relationship is part of the ideal gas law and explains everyday effects like rising tire pressure after driving or the danger of heating sealed aerosol cans.,Annotator One,INTUITION,Step4 full-pass (5-label schema)
+H_T03_1,7,More energetic molecular collisions directly create higher pressure.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+H_T04_1,1,A hot drink cools faster at first because the temperature difference between the drink and the surrounding air is largest initially.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+H_T04_1,2,Heat transfer happens more quickly when this temperature difference is large.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_T04_1,3,"As the drink cools, the difference becomes smaller, so heat flows out more slowly.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_T04_1,4,"This is described by Newton’s law of cooling, which says the rate of heat loss is proportional to the temperature difference.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+H_T04_1,5,That is why the temperature drops quickly at first and then levels off more gradually as the drink approaches room temperature.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_E02_1,1,A battery eventually runs out because its stored chemical energy is gradually converted into electrical energy.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_E02_1,2,"Inside the battery, chemical reactions separate charges and create a voltage difference between the terminals.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E02_1,3,"When the circuit is closed, charges flow and the reactions continue.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E02_1,4,"Over time, the chemicals that drive these reactions are used up or become less effective.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E02_1,5,"As this happens, the battery can no longer maintain the same voltage, so current decreases.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E02_1,6,"A closed circuit allows energy transfer, but it does not mean energy is endlessly recycled.",Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_E02_1,7,"The battery is the energy source, and that source is limited.",Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_E02_2,1,A battery eventually runs out because its stored chemical energy is gradually converted into electrical energy.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_E02_2,2,"Inside the battery, chemical reactions separate charges and create a voltage difference between the terminals.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E02_2,3,"When the circuit is closed, charges flow and the reactions continue.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E02_2,4,"Over time, the chemicals that drive these reactions are used up or become less effective.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E02_2,5,"As this happens, the battery can no longer maintain the same voltage, so current decreases.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E02_2,6,"A closed circuit allows energy transfer, but it does not mean energy is endlessly recycled.",Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_E02_2,7,"The battery is the energy source, and that source is limited.",Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_E03_1,1,Touching a charged object sometimes produces a spark because electric charge can suddenly jump through the air.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_E03_1,2,"If there is a large enough voltage difference between your body and the object, electrons move quickly to balance the charges.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E03_1,3,"Normally, air acts as an insulator, but a strong electric field can ionize the air, allowing current to flow briefly.",Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_E03_1,4,"That rapid discharge creates light, heat, and the tiny crackling sound of a spark.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E03_1,5,Dry air makes this more common because charge builds up more easily.,Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_E03_1,6,The spark is simply the fast release of stored electrical energy between two differently charged objects.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_E03_2,1,Touching a charged object sometimes produces a spark because electric charge can suddenly jump through the air.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_E03_2,2,"If there is a large enough voltage difference between your body and the object, electrons move quickly to balance the charges.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E03_2,3,"Normally, air acts as an insulator, but a strong electric field can ionize the air, allowing current to flow briefly.",Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_E03_2,4,"That rapid discharge creates light, heat, and the tiny crackling sound of a spark.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E03_2,5,Dry air makes this more common because charge builds up more easily.,Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_E03_2,6,The spark is simply the fast release of stored electrical energy between two differently charged objects.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_E04_1,1,A compass needle aligns with Earth’s magnetic field because the needle is a small magnet.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_E04_1,2,Magnets experience a torque in a magnetic field that causes them to rotate until they line up with the field direction.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E04_1,3,"Earth acts like a giant magnet, producing a magnetic field that extends through space around it.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E04_1,4,"When the compass is free to rotate, the magnetic forces on its poles make it settle in the north-south direction.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E04_1,5,The needle is not being pulled north by location alone.,Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_E04_1,6,"Instead, it is responding to the magnetic field at that point on Earth’s surface.",Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_E04_2,1,A compass needle aligns with Earth’s magnetic field because the needle is a small magnet.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_E04_2,2,Magnets experience a torque in a magnetic field that causes them to rotate until they line up with the field direction.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E04_2,3,"Earth acts like a giant magnet, producing a magnetic field that extends through space around it.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E04_2,4,"When the compass is free to rotate, the magnetic forces on its poles make it settle in the north-south direction.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E04_2,5,The needle is not being pulled north by location alone.,Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_E04_2,6,"Instead, it is responding to the magnetic field at that point on Earth’s surface.",Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_E05_1,1,A changing magnetic field induces current in a wire loop because changing magnetic fields create electric fields.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_E05_1,2,This is described by Faraday’s law.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E05_1,3,"When the magnetic field through a loop changes, the charges in the wire feel a force that makes them move, producing current.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E05_1,4,"The faster the magnetic field changes, the greater the induced current.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E05_1,5,"This principle is used in generators, transformers, and wireless charging.",Annotator One,INTUITION,Step4 full-pass (5-label schema)
+AI_E05_1,6,The key idea is that electricity and magnetism are linked.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E05_1,7,"A steady magnetic field alone may do nothing, but a changing one can transfer energy and drive charge flow through the wire.",Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_E05_2,1,A changing magnetic field induces current in a wire loop because changing magnetic fields create electric fields.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_E05_2,2,This is described by Faraday’s law.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E05_2,3,"When the magnetic field through a loop changes, the charges in the wire feel a force that makes them move, producing current.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E05_2,4,"The faster the magnetic field changes, the greater the induced current.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E05_2,5,"This principle is used in generators, transformers, and wireless charging.",Annotator One,INTUITION,Step4 full-pass (5-label schema)
+AI_E05_2,6,The key idea is that electricity and magnetism are linked.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E05_2,7,"A steady magnetic field alone may do nothing, but a changing one can transfer energy and drive charge flow through the wire.",Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_E06_1,1,Current is the same everywhere in a series circuit because there is only one path for charges to follow.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_E06_1,2,Charge cannot pile up in one part of the circuit while disappearing in another.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E06_1,3,"In a steady circuit, the same amount of charge that enters each component must leave it.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E06_1,4,"If current were different at different points, charge would build up somewhere, which does not happen in normal operation.",Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_E06_1,5,You can think of it like water flowing through a single pipe loop: the same amount of water passes every point each second.,Annotator One,INTUITION,Step4 full-pass (5-label schema)
+AI_E06_1,6,"In a series circuit, all components share the same charge flow rate.",Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_E06_2,1,Current is the same everywhere in a series circuit because there is only one path for charges to follow.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_E06_2,2,Charge cannot pile up in one part of the circuit while disappearing in another.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E06_2,3,"In a steady circuit, the same amount of charge that enters each component must leave it.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E06_2,4,"If current were different at different points, charge would build up somewhere, which does not happen in normal operation.",Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_E06_2,5,You can think of it like water flowing through a single pipe loop: the same amount of water passes every point each second.,Annotator One,INTUITION,Step4 full-pass (5-label schema)
+AI_E06_2,6,"In a series circuit, all components share the same charge flow rate.",Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_E07_1,1,Voltage drops across components because electrical energy is transferred from charges to the components.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_E07_1,2,Voltage measures electric potential energy per unit charge.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E07_1,3,"As charges move through a resistor, bulb, or motor, they lose some energy by producing heat, light, or motion.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E07_1,4,This energy loss appears as a voltage drop.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E07_1,5,"The battery gives charges energy, raising their voltage, and the components use that energy, lowering it.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E07_1,6,The total voltage supplied by the battery must equal the total voltage lost in the circuit.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_E07_1,7,Voltage drop is simply the amount of energy each charge gives up while passing through a device.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_E07_2,1,Voltage drops across components because electrical energy is transferred from charges to the components.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_E07_2,2,Voltage measures electric potential energy per unit charge.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E07_2,3,"As charges move through a resistor, bulb, or motor, they lose some energy by producing heat, light, or motion.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E07_2,4,This energy loss appears as a voltage drop.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E07_2,5,"The battery gives charges energy, raising their voltage, and the components use that energy, lowering it.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E07_2,6,The total voltage supplied by the battery must equal the total voltage lost in the circuit.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_E07_2,7,Voltage drop is simply the amount of energy each charge gives up while passing through a device.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_E08_1,1,Two neutral objects can still attract each other because charge inside objects can shift.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_E08_1,2,"Even if an object has equal positive and negative charges overall, those charges may not be evenly distributed.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E08_1,3,"A charged object nearby can cause the charges in a neutral object to rearrange slightly, a process called polarization.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E08_1,4,This creates a region of opposite charge closer to the charged object.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E08_1,5,"Since electric force is stronger at shorter distances, the attraction to the closer opposite charges can be greater than the repulsion from farther like charges.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E08_1,6,"As a result, the neutral object is pulled toward the charged one.",Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_E08_2,1,Two neutral objects can still attract each other because charge inside objects can shift.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_E08_2,2,"Even if an object has equal positive and negative charges overall, those charges may not be evenly distributed.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E08_2,3,"A charged object nearby can cause the charges in a neutral object to rearrange slightly, a process called polarization.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E08_2,4,This creates a region of opposite charge closer to the charged object.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E08_2,5,"Since electric force is stronger at shorter distances, the attraction to the closer opposite charges can be greater than the repulsion from farther like charges.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_E08_2,6,"As a result, the neutral object is pulled toward the charged one.",Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_M04_1,1,A seatbelt reduces injury during a sudden stop by increasing the time over which your body comes to rest.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_M04_1,2,"Without a seatbelt, your body would keep moving forward at the car’s original speed because of inertia, possibly hitting the dashboard or windshield.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M04_1,3,A seatbelt applies a restraining force that slows you down more gradually.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M04_1,4,"Since force depends on how quickly momentum changes, spreading the stop over a longer time reduces the force on your body.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M04_1,5,Seatbelts also keep you in the proper position so airbags can work effectively.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_M04_1,6,"They prevent you from being thrown forward, which greatly lowers the chance of serious injury.",Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_M04_2,1,A seatbelt reduces injury during a sudden stop by increasing the time over which your body comes to rest.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_M04_2,2,"Without a seatbelt, your body would keep moving forward at the car’s original speed because of inertia, possibly hitting the dashboard or windshield.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M04_2,3,A seatbelt applies a restraining force that slows you down more gradually.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M04_2,4,"Since force depends on how quickly momentum changes, spreading the stop over a longer time reduces the force on your body.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M04_2,5,Seatbelts also keep you in the proper position so airbags can work effectively.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_M04_2,6,"They prevent you from being thrown forward, which greatly lowers the chance of serious injury.",Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_M05_1,1,It is harder to stop a truck than a bicycle moving at the same speed because the truck has much more mass and therefore much more momentum.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_M05_1,2,Momentum is the product of mass and velocity.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M05_1,3,"Since both are moving at the same speed, the truck’s larger mass means it carries far more momentum.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M05_1,4,"To stop it, a larger force or more stopping time is needed.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M05_1,5,"The truck also has greater kinetic energy, which must be removed by brakes and friction.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M05_1,6,"That is why trucks need longer stopping distances and stronger braking systems than bicycles, even when traveling at the same speed.",Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_M05_2,1,It is harder to stop a truck than a bicycle moving at the same speed because the truck has much more mass and therefore much more momentum.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_M05_2,2,Momentum is the product of mass and velocity.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M05_2,3,"Since both are moving at the same speed, the truck’s larger mass means it carries far more momentum.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M05_2,4,"To stop it, a larger force or more stopping time is needed.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M05_2,5,"The truck also has greater kinetic energy, which must be removed by brakes and friction.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M05_2,6,"That is why trucks need longer stopping distances and stronger braking systems than bicycles, even when traveling at the same speed.",Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_M06_1,1,A person standing still on ice can still exert a force on the surface because force does not require motion.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_M06_1,2,"Even when standing still, the person’s weight pulls downward due to gravity.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M06_1,3,This downward force pushes on the ice.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M06_1,4,"According to Newton’s third law, the ice pushes back upward with an equal and opposite force called the normal force.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M06_1,5,"These forces balance, so the person remains at rest.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M06_1,6,The fact that nothing moves does not mean no forces are present.,Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_M06_1,7,It only means the forces are balanced.,Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_M06_1,8,Standing still is actually a situation where forces are acting but canceling out.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_M06_2,1,A person standing still on ice can still exert a force on the surface because force does not require motion.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_M06_2,2,"Even when standing still, the person’s weight pulls downward due to gravity.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M06_2,3,This downward force pushes on the ice.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M06_2,4,"According to Newton’s third law, the ice pushes back upward with an equal and opposite force called the normal force.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M06_2,5,"These forces balance, so the person remains at rest.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M06_2,6,The fact that nothing moves does not mean no forces are present.,Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_M06_2,7,It only means the forces are balanced.,Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_M06_2,8,Standing still is actually a situation where forces are acting but canceling out.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_M07_1,1,Friction can help motion because it provides the grip needed to push against a surface.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_M07_1,2,"Although friction often opposes sliding, it also prevents unwanted slipping.",Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_M07_1,3,"For example, when you walk, your foot pushes backward on the ground.",Annotator One,INTUITION,Step4 full-pass (5-label schema)
+AI_M07_1,4,Static friction from the ground then pushes you forward.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M07_1,5,"Without friction, your foot would slide and you could not move effectively.",Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_M07_1,6,"The same idea applies to car tires, which rely on friction to accelerate, turn, and brake.",Annotator One,INTUITION,Step4 full-pass (5-label schema)
+AI_M07_1,7,So friction is not always a force that slows things down.,Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_M07_1,8,"In many situations, it is essential for controlled movement and stability.",Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_M07_2,1,Friction can help motion because it provides the grip needed to push against a surface.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_M07_2,2,"Although friction often opposes sliding, it also prevents unwanted slipping.",Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_M07_2,3,"For example, when you walk, your foot pushes backward on the ground.",Annotator One,INTUITION,Step4 full-pass (5-label schema)
+AI_M07_2,4,Static friction from the ground then pushes you forward.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M07_2,5,"Without friction, your foot would slide and you could not move effectively.",Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_M07_2,6,"The same idea applies to car tires, which rely on friction to accelerate, turn, and brake.",Annotator One,INTUITION,Step4 full-pass (5-label schema)
+AI_M07_2,7,So friction is not always a force that slows things down.,Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_M07_2,8,"In many situations, it is essential for controlled movement and stability.",Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_M08_1,1,A rocket accelerates in space because it pushes mass out of its engines at high speed.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_M08_1,2,"According to Newton’s third law, when the rocket pushes exhaust gases backward, the gases push the rocket forward with an equal and opposite force.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M08_1,3,The rocket does not need air to push against.,Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_M08_1,4,It only needs to eject mass.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M08_1,5,This is why rockets work in the vacuum of space.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_M08_1,6,"The force comes from the internal combustion and expulsion of fuel, not from interaction with the atmosphere.",Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_M08_1,7,"As long as the rocket continues throwing exhaust backward, it can keep accelerating forward.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M08_2,1,A rocket accelerates in space because it pushes mass out of its engines at high speed.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_M08_2,2,"According to Newton’s third law, when the rocket pushes exhaust gases backward, the gases push the rocket forward with an equal and opposite force.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M08_2,3,The rocket does not need air to push against.,Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_M08_2,4,It only needs to eject mass.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_M08_2,5,This is why rockets work in the vacuum of space.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_M08_2,6,"The force comes from the internal combustion and expulsion of fuel, not from interaction with the atmosphere.",Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_M08_2,7,"As long as the rocket continues throwing exhaust backward, it can keep accelerating forward.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_T02_1,1,Rubbing your hands together makes them feel warmer because friction converts mechanical energy into thermal energy.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_T02_1,2,"As your hands slide against each other, the microscopic bumps and irregularities on your skin interact.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_T02_1,3,This causes tiny collisions and resistance at the surface.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_T02_1,4,"The energy from your motion is transformed into random molecular motion, which is what we experience as heat.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_T02_1,5,"The faster and harder you rub, the more energy is converted and the warmer your hands feel.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_T02_1,6,This is a direct example of energy changing form: motion energy from your muscles becomes heat through friction between surfaces.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_T02_2,1,Rubbing your hands together makes them feel warmer because friction converts mechanical energy into thermal energy.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_T02_2,2,"As your hands slide against each other, the microscopic bumps and irregularities on your skin interact.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_T02_2,3,This causes tiny collisions and resistance at the surface.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_T02_2,4,"The energy from your motion is transformed into random molecular motion, which is what we experience as heat.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_T02_2,5,"The faster and harder you rub, the more energy is converted and the warmer your hands feel.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_T02_2,6,This is a direct example of energy changing form: motion energy from your muscles becomes heat through friction between surfaces.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_T03_1,1,Increasing temperature raises pressure in a sealed gas container because temperature measures the average kinetic energy of gas particles.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_T03_1,2,"When the gas is heated, the particles move faster.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_T03_1,3,"In a sealed container, the volume stays constant, so the particles cannot spread out more.",Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_T03_1,4,"Instead, they collide with the container walls more often and with greater force.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_T03_1,5,Pressure is caused by these collisions.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_T03_1,6,More frequent and stronger collisions mean higher pressure.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_T03_1,7,"This is why aerosol cans warn against heat: warming the gas inside raises pressure, which can become dangerous if the container cannot withstand the increased force.",Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_T03_2,1,Increasing temperature raises pressure in a sealed gas container because temperature measures the average kinetic energy of gas particles.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_T03_2,2,"When the gas is heated, the particles move faster.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_T03_2,3,"In a sealed container, the volume stays constant, so the particles cannot spread out more.",Annotator One,CAVEAT,Step4 full-pass (5-label schema)
+AI_T03_2,4,"Instead, they collide with the container walls more often and with greater force.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_T03_2,5,Pressure is caused by these collisions.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_T03_2,6,More frequent and stronger collisions mean higher pressure.,Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_T03_2,7,"This is why aerosol cans warn against heat: warming the gas inside raises pressure, which can become dangerous if the container cannot withstand the increased force.",Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_T04_1,1,A hot drink cools down faster at first because the rate of heat transfer depends on the temperature difference between the drink and its surroundings.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_T04_1,2,"When the drink is very hot, the difference is large, so heat flows out quickly through conduction, convection, and radiation.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_T04_1,3,"As the drink cools, the temperature difference becomes smaller, so heat transfer slows down.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_T04_1,4,This is why the first few minutes cause the biggest temperature drop.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_T04_1,5,The cooling process naturally becomes slower over time.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_T04_1,6,"In simple terms, the farther the drink is from room temperature, the faster it loses heat.",Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_T04_2,1,A hot drink cools down faster at first because the rate of heat transfer depends on the temperature difference between the drink and its surroundings.,Annotator One,FRAME,Step4 full-pass (5-label schema)
+AI_T04_2,2,"When the drink is very hot, the difference is large, so heat flows out quickly through conduction, convection, and radiation.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_T04_2,3,"As the drink cools, the temperature difference becomes smaller, so heat transfer slows down.",Annotator One,PRINCIPLE_DERIVE,Step4 full-pass (5-label schema)
+AI_T04_2,4,This is why the first few minutes cause the biggest temperature drop.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_T04_2,5,The cooling process naturally becomes slower over time.,Annotator One,VERIFY,Step4 full-pass (5-label schema)
+AI_T04_2,6,"In simple terms, the farther the drink is from room temperature, the faster it loses heat.",Annotator One,VERIFY,Step4 full-pass (5-label schema)
+H_P21_01,1,An object in uniform circular motion can have constant speed but still accelerate because velocity is a vector with both magnitude and direction.,Annotator One,FRAME,AUTO_ANN_V1: expansion batch
+H_P21_01,1,An object in uniform circular motion can have constant speed but still accelerate because velocity is a vector with both magnitude and direction.,Annotator Two,FRAME,AUTO_ANN2_DRAFT: overlap extension
+H_P21_01,2,"In circular motion, the direction of velocity changes continuously, so velocity changes even when speed does not.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P21_01,2,"In circular motion, the direction of velocity changes continuously, so velocity changes even when speed does not.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+H_P21_01,3,"Acceleration measures that change in velocity, so it is nonzero and points toward the center of the circle.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P21_01,3,"Acceleration measures that change in velocity, so it is nonzero and points toward the center of the circle.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+H_P21_01,4,Its magnitude is a_c = v^2/r (or r*omega^2).,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P21_01,4,Its magnitude is a_c = v^2/r (or r*omega^2).,Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+H_P21_01,5,A tighter turn (smaller r) or higher speed increases this inward acceleration.,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P21_01,5,A tighter turn (smaller r) or higher speed increases this inward acceleration.,Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+H_P22_01,1,"At fixed voltage, current and resistance are linked by Ohm's law, I = V/R.",Annotator One,CAVEAT,AUTO_ANN_V1: expansion batch
+H_P22_01,2,"If V stays the same and R increases, I must decrease.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P22_01,3,"Physically, higher resistance means charge carriers face more opposition as they move through the material, so less charge passes a point each second.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P22_01,4,So increasing resistance lowers current in a simple circuit unless voltage is changed to compensate.,Annotator One,CAVEAT,AUTO_ANN_V1: expansion batch
+H_P23_01,1,"Work by a constant force is W = F d cos(theta), where theta is the angle between force and displacement.",Annotator One,FRAME,AUTO_ANN_V1: expansion batch
+H_P23_01,2,"If force is perpendicular to displacement, theta = 90 degrees and cos(90) = 0, so W = 0.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P23_01,3,That means the force can change direction of motion without transferring energy through work in that direction.,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P23_01,4,"A common example is carrying a bag horizontally at constant height: your upward force is perpendicular to your horizontal displacement, so your force does no mechanical work on the bag along the path.",Annotator One,INTUITION,AUTO_ANN_V1: expansion batch
+H_P24_01,1,"For a fixed amount of gas in a rigid sealed container, volume and particle number are constant.",Annotator One,CAVEAT,AUTO_ANN_V1: expansion batch
+H_P24_01,2,"From the ideal gas law, P V = N k T, pressure is proportional to absolute temperature when V and N are fixed.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P24_01,3,"So when temperature rises, pressure rises.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P24_01,4,"Microscopically, hotter gas particles move faster and collide with container walls more frequently and with greater momentum change, which increases pressure.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P25_01,1,Faraday's law says a changing magnetic flux induces an emf.,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P25_01,1,Faraday's law says a changing magnetic flux induces an emf.,Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+H_P25_01,2,The minus sign in Faraday's law expresses Lenz's law: the induced current flows in a direction that opposes the change in flux that created it.,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P25_01,2,The minus sign in Faraday's law expresses Lenz's law: the induced current flows in a direction that opposes the change in flux that created it.,Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+H_P25_01,3,This opposition is a consistency condition with energy conservation.,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P25_01,3,This opposition is a consistency condition with energy conservation.,Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+H_P25_01,4,"If induced current reinforced the original change, flux would grow without extra work.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P25_01,4,"If induced current reinforced the original change, flux would grow without extra work.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+H_P25_01,5,"Instead, induced effects resist the change, so external work is required to keep changing the field.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P25_01,5,"Instead, induced effects resist the change, so external work is required to keep changing the field.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+H_P26_01,1,Momentum is conserved for a system when net external impulse is negligible.,Annotator One,FRAME,AUTO_ANN_V1: expansion batch
+H_P26_01,2,"During a collision, objects exert internal forces on each other that are equal and opposite, so these internal effects cancel at the system level.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P26_01,3,"As a result, total momentum before and after the collision is the same, even though individual object momenta can change a lot.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P26_01,4,Kinetic energy may or may not be conserved depending on whether the collision is elastic.,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P27_01,1,Newton's second law states that net force equals mass times acceleration: F_net = m a.,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P27_01,2,"This means acceleration points in the direction of net force, grows when net force grows, and shrinks when mass grows for the same force.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P27_01,3,"So a larger net force causes a larger acceleration, while a more massive object requires more force to get the same acceleration.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P27_01,4,The law quantitatively links cause (net force) to motion change (acceleration).,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P28_01,1,Mechanical energy is the sum of kinetic and potential energy.,Annotator One,FRAME,AUTO_ANN_V1: expansion batch
+H_P28_01,2,"In an ideal system with negligible nonconservative work (like friction), total mechanical energy stays constant while energy shifts between forms.",Annotator One,INTUITION,AUTO_ANN_V1: expansion batch
+H_P28_01,3,"For example, as an object moves downhill, gravitational potential energy decreases and kinetic energy increases by the same amount.",Annotator One,INTUITION,AUTO_ANN_V1: expansion batch
+H_P28_01,4,Moving uphill reverses the transfer.,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P28_01,5,So K and U can change significantly while K + U remains constant.,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P29_01,1,"Wave speed, frequency, and wavelength satisfy v = f lambda.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P29_01,1,"Wave speed, frequency, and wavelength satisfy v = f lambda.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+H_P29_01,2,"In one medium, speed is set mainly by medium properties, so if frequency increases then wavelength must decrease to keep v the same.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P29_01,2,"In one medium, speed is set mainly by medium properties, so if frequency increases then wavelength must decrease to keep v the same.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+H_P29_01,3,"Frequency is set by the source, while wavelength adjusts in response to speed in that medium.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P29_01,3,"Frequency is set by the source, while wavelength adjusts in response to speed in that medium.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+H_P29_01,4,This is why high-frequency sound has shorter wavelength than low-frequency sound when both travel through the same air.,Annotator One,VERIFY,AUTO_ANN_V1: expansion batch
+H_P29_01,4,This is why high-frequency sound has shorter wavelength than low-frequency sound when both travel through the same air.,Annotator Two,VERIFY,AUTO_ANN2_DRAFT: overlap extension
+H_P30_01,1,"A magnetic field exerts force on a moving charge with magnitude F = q v B sin(theta), perpendicular to both velocity and magnetic field.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P30_01,2,"Because the magnetic force is perpendicular to motion, it changes direction of velocity more than speed.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P30_01,3,"With v perpendicular to B in a uniform field, the path is circular; with a component parallel to B, the path is helical.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+H_P30_01,4,So magnetic fields steer charged particles and can confine them into curved trajectories.,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P21_1,1,"Acceleration is the rate of change of velocity, and velocity includes both speed and direction.",Annotator One,FRAME,AUTO_ANN_V1: expansion batch
+AI_P21_1,1,"Acceleration is the rate of change of velocity, and velocity includes both speed and direction.",Annotator Two,FRAME,AUTO_ANN2_DRAFT: overlap extension
+AI_P21_1,2,"In circular motion, even if the speed stays constant, the direction of motion is continuously changing, so the velocity is changing.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P21_1,2,"In circular motion, even if the speed stays constant, the direction of motion is continuously changing, so the velocity is changing.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+AI_P21_1,3,"This means there is an acceleration, called centripetal acceleration, which always points toward the center of the circle.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P21_1,3,"This means there is an acceleration, called centripetal acceleration, which always points toward the center of the circle.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+AI_P21_1,4,The relevant principle is that any change in velocity requires a net force (Newton’s second law).,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P21_1,4,The relevant principle is that any change in velocity requires a net force (Newton’s second law).,Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+AI_P21_1,5,"For example, when a car turns at constant speed, you feel pushed sideways because your direction is changing, indicating an inward acceleration toward the center of the turn.",Annotator One,INTUITION,AUTO_ANN_V1: expansion batch
+AI_P21_1,5,"For example, when a car turns at constant speed, you feel pushed sideways because your direction is changing, indicating an inward acceleration toward the center of the turn.",Annotator Two,INTUITION,AUTO_ANN2_DRAFT: overlap extension
+AI_P21_2,1,"Acceleration is defined as any change in velocity, and velocity is a vector, meaning it has both magnitude and direction.",Annotator One,FRAME,AUTO_ANN_V1: expansion batch
+AI_P21_2,1,"Acceleration is defined as any change in velocity, and velocity is a vector, meaning it has both magnitude and direction.",Annotator Two,FRAME,AUTO_ANN2_DRAFT: overlap extension
+AI_P21_2,2,"Even if your speed stays constant around a circle, your direction of motion is continuously changing, so your velocity vector is constantly changing.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P21_2,2,"Even if your speed stays constant around a circle, your direction of motion is continuously changing, so your velocity vector is constantly changing.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+AI_P21_2,3,"That change in velocity per unit time is acceleration, called centripetal acceleration, always pointing toward the center of the circle.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P21_2,3,"That change in velocity per unit time is acceleration, called centripetal acceleration, always pointing toward the center of the circle.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+AI_P21_2,4,"Think of swinging a ball on a string: the string pulls the ball inward, constantly redirecting it without speeding it up.",Annotator One,INTUITION,AUTO_ANN_V1: expansion batch
+AI_P21_2,4,"Think of swinging a ball on a string: the string pulls the ball inward, constantly redirecting it without speeding it up.",Annotator Two,INTUITION,AUTO_ANN2_DRAFT: overlap extension
+AI_P21_2,5,"Without that inward pull, the ball would fly off in a straight line, as Newton's first law predicts.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P21_2,5,"Without that inward pull, the ball would fly off in a straight line, as Newton's first law predicts.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+AI_P22_1,1,"At fixed voltage, the relationship between current and resistance is given by Ohm’s law: I = V / R.",Annotator One,CAVEAT,AUTO_ANN_V1: expansion batch
+AI_P22_1,2,"Voltage is the “push” driving charges through a circuit, while resistance measures how strongly the material opposes that motion.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P22_1,3,"If the voltage stays the same and resistance increases, the denominator in the equation grows, so the current must decrease.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P22_1,4,"Microscopically, higher resistance means charge carriers (like electrons) collide more often with atoms, losing momentum and moving more slowly on average.",Annotator One,INTUITION,AUTO_ANN_V1: expansion batch
+AI_P22_1,5,"An intuitive analogy is water flowing through a pipe: if you narrow or roughen the pipe (increase resistance), less water flows for the same pressure.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P22_2,1,"Voltage is the electrical ""pressure"" that pushes charges through a circuit, while resistance is how much the circuit opposes that flow.",Annotator One,FRAME,AUTO_ANN_V1: expansion batch
+AI_P22_2,2,Ohm's Law states that current equals voltage divided by resistance (I = V/R).,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P22_2,3,"Think of water flowing through a pipe: voltage is the water pressure, and resistance is how narrow the pipe is.",Annotator One,INTUITION,AUTO_ANN_V1: expansion batch
+AI_P22_2,4,"If you squeeze the pipe tighter while keeping the pressure the same, less water flows through.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P22_2,5,"Similarly, when resistance increases at fixed voltage, there is greater opposition to charge movement, so fewer charges pass any point per second — meaning current decreases proportionally.",Annotator One,CAVEAT,AUTO_ANN_V1: expansion batch
+AI_P23_1,1,"Work is defined as the dot product of force and displacement, \( W = \vec{F} \cdot \vec{d} = F d \cos\theta \).",Annotator One,FRAME,AUTO_ANN_V1: expansion batch
+AI_P23_1,2,The key is the cosine term: it picks out the component of the force along the direction of motion.,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P23_1,3,"If the force is perpendicular to the displacement, then \(\theta = 90^\circ\) and \(\cos 90^\circ = 0\), so no work is done.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P23_1,4,"Physically, this means the force changes the object’s direction but not its speed or energy.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P23_1,5,"A classic example is uniform circular motion: the centripetal force always points inward, perpendicular to the velocity, so it continuously redirects the motion without adding or removing energy.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P23_2,1,Work is defined as the transfer of energy from a force into the motion of an object along a specific direction.,Annotator One,FRAME,AUTO_ANN_V1: expansion batch
+AI_P23_2,2,"Mathematically, work equals force times displacement times the cosine of the angle between them.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P23_2,3,"When a force is perpendicular to displacement, that angle is 90°, and cosine of 90° is zero, so no work is done.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P23_2,4,"Physically, this means the force has no component pointing along the direction of motion, so it cannot speed up or slow down the object — it cannot transfer energy into or out of that motion.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P23_2,5,"A classic example is a satellite orbiting Earth: gravity pulls inward while the satellite moves tangentially, so gravity does zero work and the satellite's speed remains constant.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P24_1,1,"In a sealed rigid container, the volume and number of particles stay constant, so increasing temperature means increasing the average kinetic energy of the gas molecules (from kinetic theory).",Annotator One,CAVEAT,AUTO_ANN_V1: expansion batch
+AI_P24_1,2,"Faster molecules collide with the container walls more frequently and with greater force, which raises the pressure.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P24_1,3,This is captured by the ideal gas law \(P \propto T\) when volume and particle number are fixed.,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P24_1,4,"Intuitively, imagine ping-pong balls bouncing inside a box: if they suddenly move faster, they hit the walls harder and more often, so the force on the walls—and thus the pressure—increases.",Annotator One,INTUITION,AUTO_ANN_V1: expansion batch
+AI_P24_2,1,"When you heat a gas, you add energy to its molecules, causing them to move faster.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P24_2,2,Pressure is created by molecules constantly colliding with the container walls — each collision delivers a tiny push.,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P24_2,3,"When molecules move faster, two things happen: they hit the walls more frequently, and each individual collision transfers more force.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P24_2,4,"Since the container is rigid and sealed, the volume cannot expand and the number of molecules stays fixed, so all that extra molecular energy goes directly into harder and more frequent wall collisions.",Annotator One,CAVEAT,AUTO_ANN_V1: expansion batch
+AI_P24_2,5,"Think of it like a crowd in a room getting increasingly agitated — the more energetically people bounce around, the harder they push against the walls.",Annotator One,INTUITION,AUTO_ANN_V1: expansion batch
+AI_P24_2,6,"This relationship is captured by Gay-Lussac's Law: at constant volume, pressure is directly proportional to absolute temperature.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P25_1,1,"When magnetic flux through a loop changes, an induced current appears whose direction opposes that change—this is Lenz’s law.",Annotator One,FRAME,AUTO_ANN_V1: expansion batch
+AI_P25_1,1,"When magnetic flux through a loop changes, an induced current appears whose direction opposes that change—this is Lenz’s law.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+AI_P25_1,2,"The deeper reason is conservation of energy: if the induced current reinforced the change, the system would amplify itself without any external work, creating energy from nothing.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P25_1,2,"The deeper reason is conservation of energy: if the induced current reinforced the change, the system would amplify itself without any external work, creating energy from nothing.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+AI_P25_1,3,"Instead, the induced current produces its own magnetic field that resists the change, so an external agent must do work to alter the flux.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P25_1,3,"Instead, the induced current produces its own magnetic field that resists the change, so an external agent must do work to alter the flux.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+AI_P25_1,4,"For example, pushing a magnet toward a conducting loop induces a current whose magnetic field repels the magnet, making it feel harder to push—your mechanical work becomes electrical energy.",Annotator One,INTUITION,AUTO_ANN_V1: expansion batch
+AI_P25_1,4,"For example, pushing a magnet toward a conducting loop induces a current whose magnetic field repels the magnet, making it feel harder to push—your mechanical work becomes electrical energy.",Annotator Two,INTUITION,AUTO_ANN2_DRAFT: overlap extension
+AI_P25_2,1,"When a magnetic flux through a conducting loop changes, the loop responds by driving a current that creates its own magnetic field to resist that change — this is Faraday's law combined with Lenz's law.",Annotator One,FRAME,AUTO_ANN_V1: expansion batch
+AI_P25_2,1,"When a magnetic flux through a conducting loop changes, the loop responds by driving a current that creates its own magnetic field to resist that change — this is Faraday's law combined with Lenz's law.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+AI_P25_2,2,"The deeper reason is energy conservation: if the induced current reinforced the change instead of opposing it, the growing magnetic field would induce a stronger current, which would grow the field further, generating energy from nothing, violating conservation of energy.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P25_2,2,"The deeper reason is energy conservation: if the induced current reinforced the change instead of opposing it, the growing magnetic field would induce a stronger current, which would grow the field further, generating energy from nothing, violating conservation of energy.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+AI_P25_2,3,"Think of it like mechanical inertia — just as a stationary object resists being pushed, a stable magnetic flux resists being disturbed.",Annotator One,INTUITION,AUTO_ANN_V1: expansion batch
+AI_P25_2,3,"Think of it like mechanical inertia — just as a stationary object resists being pushed, a stable magnetic flux resists being disturbed.",Annotator Two,INTUITION,AUTO_ANN2_DRAFT: overlap extension
+AI_P25_2,4,"Nature always pushes back against the disturbance, never amplifying it freely.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P25_2,4,"Nature always pushes back against the disturbance, never amplifying it freely.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+AI_P26_1,1,Total momentum is conserved in collisions because of Newton’s third law and the absence of significant external forces.,Annotator One,FRAME,AUTO_ANN_V1: expansion batch
+AI_P26_1,2,"During a collision, the forces the objects exert on each other are equal in magnitude and opposite in direction, so the impulse (force × time) each object experiences is equal and opposite.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P26_1,3,"This means any momentum lost by one object is exactly gained by the other, leaving the total unchanged.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P26_1,4,"If no external forces act on the system, there’s nothing to add or remove momentum overall.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P26_1,5,"A simple example is two ice skaters pushing off each other: they move apart, but their combined momentum remains zero if they started at rest.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P26_2,1,"Newton's third law tells us that whenever two objects interact, they exert equal and opposite forces on each other.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P26_2,2,"During a collision, object A pushes on object B with exactly the force that B pushes back on A, just in the opposite direction.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P26_2,3,"Since momentum change equals force multiplied by time, these paired forces act for the same duration, so whatever momentum one object gains, the other loses by precisely that amount.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P26_2,4,The total momentum of the system therefore stays constant.,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P26_2,5,"Think of two skaters pushing off each other on frictionless ice: one glides left, the other right, but their combined momentum remains zero throughout.",Annotator One,INTUITION,AUTO_ANN_V1: expansion batch
+AI_P27_1,1,Newton’s second law states that the net force acting on an object equals its mass times its acceleration (F = ma).,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P27_1,2,This means acceleration depends on both how strong the overall (net) force is and how much mass the object has.,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P27_1,3,"For a given mass, a larger net force produces a larger acceleration; for a given force, a larger mass produces a smaller acceleration.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P27_1,4,The key idea is that forces don’t just cause motion—they change motion.,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P27_1,5,"For example, pushing an empty shopping cart makes it speed up quickly, but the same push on a full cart leads to a much smaller acceleration because its mass is greater.",Annotator One,INTUITION,AUTO_ANN_V1: expansion batch
+AI_P27_2,1,Newton's second law states that the net force acting on an object equals its mass multiplied by its acceleration: F = ma.,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P27_2,2,"This means acceleration is directly proportional to net force — push harder, and the object speeds up faster.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P27_2,3,It also means acceleration is inversely proportional to mass — a heavier object is harder to accelerate with the same force.,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P27_2,4,"Think of pushing a shopping cart: an empty cart accelerates easily with a small push, but a full cart requires much more force to achieve the same acceleration.",Annotator One,INTUITION,AUTO_ANN_V1: expansion batch
+AI_P27_2,5,The key insight is that force doesn't determine speed directly; it determines how quickly velocity changes.,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P28_1,1,"In a system where only conservative forces (like gravity or a spring) do work, energy can shift between kinetic energy (motion) and potential energy (stored due to position or configuration) without changing the total mechanical energy.",Annotator One,INTUITION,AUTO_ANN_V1: expansion batch
+AI_P28_1,2,"The key principle is conservation of mechanical energy: energy isn’t lost, just transformed.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P28_1,3,"For example, when you toss a ball upward, it slows down as kinetic energy decreases, but its gravitational potential energy increases by exactly the same amount.",Annotator One,INTUITION,AUTO_ANN_V1: expansion batch
+AI_P28_1,4,"At the top, kinetic energy is minimal and potential is maximal; on the way down, the process reverses.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P28_1,5,"Ignoring friction or air resistance, the sum of the two energies stays constant.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P28_2,1,"In an isolated system with no friction or other non-conservative forces doing work, the total mechanical energy — the sum of kinetic and potential energy — stays fixed because energy simply converts between the two forms rather than disappearing.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P28_2,2,"As an object gains speed, its kinetic energy rises while its potential energy drops by exactly the same amount, and vice versa.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P28_2,3,"Think of a swinging pendulum: at the bottom of its arc it moves fastest and has maximum kinetic energy, while at the top of each swing it momentarily stops and holds maximum potential energy.",Annotator One,INTUITION,AUTO_ANN_V1: expansion batch
+AI_P28_2,4,The total never changes — energy just shifts form continuously.,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P29_1,1,"Wave speed, frequency, and wavelength are linked by the equation v = fλ, where v is wave speed, f is frequency, and λ is wavelength.",Annotator One,FRAME,AUTO_ANN_V1: expansion batch
+AI_P29_1,1,"Wave speed, frequency, and wavelength are linked by the equation v = fλ, where v is wave speed, f is frequency, and λ is wavelength.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+AI_P29_1,2,"In a given medium, the wave speed is usually fixed by the medium’s properties, so frequency and wavelength must adjust to keep their product constant.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P29_1,2,"In a given medium, the wave speed is usually fixed by the medium’s properties, so frequency and wavelength must adjust to keep their product constant.",Annotator Two,CAVEAT,AUTO_ANN2_DRAFT: overlap extension
+AI_P29_1,3,"If the frequency increases, the wavelength decreases proportionally.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P29_1,3,"If the frequency increases, the wavelength decreases proportionally.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+AI_P29_1,4,"For example, if you shake a rope faster, the ripples become more closely spaced rather than moving faster along the rope.",Annotator One,INTUITION,AUTO_ANN_V1: expansion batch
+AI_P29_1,4,"For example, if you shake a rope faster, the ripples become more closely spaced rather than moving faster along the rope.",Annotator Two,INTUITION,AUTO_ANN2_DRAFT: overlap extension
+AI_P29_1,5,"The key principle is that the medium sets the speed, so changes in frequency are balanced by opposite changes in wavelength.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P29_1,5,"The key principle is that the medium sets the speed, so changes in frequency are balanced by opposite changes in wavelength.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+AI_P29_2,1,"All waves obey the relationship v = fλ, where v is wave speed, f is frequency, and λ is wavelength.",Annotator One,FRAME,AUTO_ANN_V1: expansion batch
+AI_P29_2,1,"All waves obey the relationship v = fλ, where v is wave speed, f is frequency, and λ is wavelength.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+AI_P29_2,2,"In a given medium, the wave speed is fixed by the physical properties of that medium — for example, sound travels at roughly 343 m/s in air regardless of the source.",Annotator One,INTUITION,AUTO_ANN_V1: expansion batch
+AI_P29_2,2,"In a given medium, the wave speed is fixed by the physical properties of that medium — for example, sound travels at roughly 343 m/s in air regardless of the source.",Annotator Two,CAVEAT,AUTO_ANN2_DRAFT: overlap extension
+AI_P29_2,3,"This means if you increase the frequency, the wavelength must decrease proportionally to keep the speed constant.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P29_2,3,"This means if you increase the frequency, the wavelength must decrease proportionally to keep the speed constant.",Annotator Two,PRINCIPLE_DERIVE,AUTO_ANN2_DRAFT: overlap extension
+AI_P29_2,4,"Think of a jump rope being shaken faster: the waves come more frequently, but each individual wave crest is shorter, while the speed at which disturbances travel along the rope stays the same.",Annotator One,INTUITION,AUTO_ANN_V1: expansion batch
+AI_P29_2,4,"Think of a jump rope being shaken faster: the waves come more frequently, but each individual wave crest is shorter, while the speed at which disturbances travel along the rope stays the same.",Annotator Two,INTUITION,AUTO_ANN2_DRAFT: overlap extension
+AI_P30_1,1,"A magnetic field changes a moving charged particle’s motion through the Lorentz force, which acts perpendicular to both the particle’s velocity and the magnetic field.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P30_1,2,"Because the force is always sideways rather than along the direction of motion, it does not speed the particle up or slow it down; instead, it bends its path.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P30_1,3,"If the velocity is fully perpendicular to the field, the particle moves in a circle; if there is also motion along the field, the path becomes a helix.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P30_1,4,"A helpful analogy is a ball tied to a string: the tension (like the magnetic force) continuously pulls sideways, curving the motion without changing its speed.",Annotator One,INTUITION,AUTO_ANN_V1: expansion batch
+AI_P30_2,1,"A magnetic field exerts a force on a moving charged particle, but this force always points perpendicular to both the particle's velocity and the magnetic field direction — described by the equation **F = qv × B**.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P30_2,2,"Because the force is always sideways to the motion, it never speeds the particle up or slows it down; it only continuously redirects it.",Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P30_2,3,This causes the particle to curve into a circular or helical path rather than a straight one.,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch
+AI_P30_2,4,"Think of it like a ball on a string: the string pulls sideways, keeping the ball spinning in a circle without changing its speed.",Annotator One,INTUITION,AUTO_ANN_V1: expansion batch
+AI_P30_2,5,No work is done.,Annotator One,PRINCIPLE_DERIVE,AUTO_ANN_V1: expansion batch

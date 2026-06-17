@@ -1,0 +1,9 @@
+metric,group_human_n,group_ai_n,human_count,ai_count,estimate,se,ci95_low,ci95_high,z_stat,p_value,method
+move_presence_diff_ai_minus_human::FRAME,30,60,24,50,0.033333,0.087454,-0.138073,0.204739,0.389906,0.696606,two_proportion_wald_ci + pooled_z_test
+move_presence_diff_ai_minus_human::PRINCIPLE_DERIVE,30,60,30,60,0.0,0.0,0.0,0.0,0.0,1.0,two_proportion_wald_ci + pooled_z_test
+move_presence_diff_ai_minus_human::VERIFY,30,60,14,30,0.033333,0.111638,-0.185472,0.252139,0.298216,0.765538,two_proportion_wald_ci + pooled_z_test
+move_presence_diff_ai_minus_human::INTUITION,30,60,9,25,0.116667,0.105123,-0.089371,0.322705,1.076145,0.281862,two_proportion_wald_ci + pooled_z_test
+move_presence_diff_ai_minus_human::CAVEAT,30,60,10,20,0.0,0.105409,-0.206598,0.206598,0.0,1.0,two_proportion_wald_ci + pooled_z_test
+rating_mean_diff_ai_minus_human::clarity,30,60,,,0.016,0.075764,-0.132494,0.164494,0.211183,0.832744,welch_from_summary_normal_ci
+rating_mean_diff_ai_minus_human::correctness,30,60,,,0.0,0.0,0.0,0.0,0.0,1.0,deterministic_from_summary_no_variance
+rating_mean_diff_ai_minus_human::completeness,30,60,,,-0.85,0.069529,-0.986274,-0.713726,-12.225113,0.0,welch_from_summary_normal_ci

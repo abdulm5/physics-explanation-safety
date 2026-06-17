@@ -1,0 +1,43 @@
+# Final Submission Gate Report
+
+- PASS: `kappa_0.6706_in_tex` (expected literal 0.6706)
+- PASS: `intuition_20_vs_35_in_tex` (expected 20% vs 35% mention)
+- PASS: `completeness_4_vs_5_in_tex` (expected 4.0 vs 5.0 mention)
+- PASS: `kappa_table_value` (kappa=0.6706)
+- PASS: `intuition_table_values` (human=35.0 ai=20.0)
+- PASS: `verify_table_values` (human=65.0 ai=75.0)
+- PASS: `ratings_table_values` (human=5.0 ai=4.0)
+- PASS: `pkg_has_paper/pai26_submission.pdf` (/Users/abdulmohammad/Projects/Physics&Ling/submission/PAI26_PEDB_60/paper/pai26_submission.pdf)
+- PASS: `pkg_has_paper/pai26_submission.tex` (/Users/abdulmohammad/Projects/Physics&Ling/submission/PAI26_PEDB_60/paper/pai26_submission.tex)
+- PASS: `pkg_has_paper/references.bib` (/Users/abdulmohammad/Projects/Physics&Ling/submission/PAI26_PEDB_60/paper/references.bib)
+- PASS: `pkg_has_paper/neurips_2025.sty` (/Users/abdulmohammad/Projects/Physics&Ling/submission/PAI26_PEDB_60/paper/neurips_2025.sty)
+- PASS: `pkg_has_tables/table_move_prevalence_final.csv` (/Users/abdulmohammad/Projects/Physics&Ling/submission/PAI26_PEDB_60/tables/table_move_prevalence_final.csv)
+- PASS: `pkg_has_tables/table_ratings_summary_final.csv` (/Users/abdulmohammad/Projects/Physics&Ling/submission/PAI26_PEDB_60/tables/table_ratings_summary_final.csv)
+- PASS: `pkg_has_tables/table_move_rating_correlations_final.csv` (/Users/abdulmohammad/Projects/Physics&Ling/submission/PAI26_PEDB_60/tables/table_move_rating_correlations_final.csv)
+- PASS: `pkg_has_tables/table_overlap_kappa_final.csv` (/Users/abdulmohammad/Projects/Physics&Ling/submission/PAI26_PEDB_60/tables/table_overlap_kappa_final.csv)
+- PASS: `pkg_has_tables/table_uncertainty_estimates_final.csv` (/Users/abdulmohammad/Projects/Physics&Ling/submission/PAI26_PEDB_60/tables/table_uncertainty_estimates_final.csv)
+- PASS: `pkg_has_figures/figure_move_presence_60.svg` (/Users/abdulmohammad/Projects/Physics&Ling/submission/PAI26_PEDB_60/figures/figure_move_presence_60.svg)
+- PASS: `pkg_has_figures/figure_ratings_60.svg` (/Users/abdulmohammad/Projects/Physics&Ling/submission/PAI26_PEDB_60/figures/figure_ratings_60.svg)
+- PASS: `pkg_has_figures/figure_uncertainty_60.svg` (/Users/abdulmohammad/Projects/Physics&Ling/submission/PAI26_PEDB_60/figures/figure_uncertainty_60.svg)
+- PASS: `pkg_has_docs/final_integrity_report.md` (/Users/abdulmohammad/Projects/Physics&Ling/submission/PAI26_PEDB_60/docs/final_integrity_report.md)
+- PASS: `pkg_has_docs/overfitting_sanity_report.md` (/Users/abdulmohammad/Projects/Physics&Ling/submission/PAI26_PEDB_60/docs/overfitting_sanity_report.md)
+- PASS: `pkg_has_docs/submission_checklist.md` (/Users/abdulmohammad/Projects/Physics&Ling/submission/PAI26_PEDB_60/docs/submission_checklist.md)
+- PASS: `zip_has_paper/pai26_submission.pdf`
+- PASS: `zip_has_paper/pai26_submission.tex`
+- PASS: `zip_has_paper/references.bib`
+- PASS: `zip_has_paper/neurips_2025.sty`
+- PASS: `zip_has_tables/table_move_prevalence_final.csv`
+- PASS: `zip_has_tables/table_ratings_summary_final.csv`
+- PASS: `zip_has_tables/table_move_rating_correlations_final.csv`
+- PASS: `zip_has_tables/table_overlap_kappa_final.csv`
+- PASS: `zip_has_tables/table_uncertainty_estimates_final.csv`
+- PASS: `zip_has_figures/figure_move_presence_60.svg`
+- PASS: `zip_has_figures/figure_ratings_60.svg`
+- PASS: `zip_has_figures/figure_uncertainty_60.svg`
+- PASS: `zip_has_docs/final_integrity_report.md`
+- PASS: `zip_has_docs/overfitting_sanity_report.md`
+- PASS: `zip_has_docs/submission_checklist.md`
+- PASS: `pdf_page_count_4` (pagecount=4)
+- PASS: `compile_from_package` (return=0)
+
+Overall: PASS (39/39 checks)

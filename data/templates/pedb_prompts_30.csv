@@ -1,0 +1,31 @@
+prompt_id,topic,subtopic,prompt_text,difficulty,target_audience,notes,source_batch
+M01,Mechanics,circular motion,Why does an object moving in a circle accelerate even if its speed stays constant?,intro,first_year_college,,legacy_20
+M02,Mechanics,free fall,Why does a heavier object not necessarily fall faster than a lighter one in the absence of air resistance?,intro,first_year_college,,legacy_20
+M03,Mechanics,inertia,Why does a passenger feel pushed backward when a car suddenly accelerates forward?,intro,first_year_college,,legacy_20
+M04,Mechanics,impulse / safety,Why does a seatbelt reduce injury during a sudden stop?,intro,first_year_college,,legacy_20
+M05,Mechanics,momentum,Why is it harder to stop a truck than a bicycle moving at the same speed?,intro,first_year_college,,legacy_20
+M06,Mechanics,forces,Why can a person standing still on ice still exert a force on the surface?,intro,first_year_college,,legacy_20
+M07,Mechanics,friction,Why does friction sometimes help motion rather than oppose it?,intro,first_year_college,,legacy_20
+M08,Mechanics,rockets,Why does a rocket accelerate in space even though there is no air to push against?,intro,first_year_college,,legacy_20
+E01,Electricity & Magnetism,circuits,Why does adding resistance reduce current in a simple circuit?,intro,first_year_college,,legacy_20
+E02,Electricity & Magnetism,battery / energy,Why does a battery eventually run out even in a closed circuit?,intro,first_year_college,,legacy_20
+E03,Electricity & Magnetism,static electricity,Why does touching a charged object sometimes produce a spark?,intro,first_year_college,,legacy_20
+E04,Electricity & Magnetism,magnetism,Why does a compass needle align with Earth’s magnetic field?,intro,first_year_college,,legacy_20
+E05,Electricity & Magnetism,induction,Why does a changing magnetic field induce current in a wire loop?,intro,first_year_college,,legacy_20
+E06,Electricity & Magnetism,series circuits,Why is current the same everywhere in a series circuit?,intro,first_year_college,,legacy_20
+E07,Electricity & Magnetism,voltage,Why does voltage drop across components in a circuit?,intro,first_year_college,,legacy_20
+E08,Electricity & Magnetism,polarization,Why can two neutral objects still attract each other electrically?,intro,first_year_college,,legacy_20
+T01,Energy / Work / Thermo,work,Why is work zero when force is perpendicular to displacement?,intro,first_year_college,,legacy_20
+T02,Energy / Work / Thermo,friction / heat,Why does rubbing your hands together make them feel warmer?,intro,first_year_college,,legacy_20
+T03,Energy / Work / Thermo,gas laws,Why does increasing temperature raise pressure in a sealed gas container?,intro,first_year_college,,legacy_20
+T04,Energy / Work / Thermo,cooling,Why does a hot drink cool down faster at first than later?,intro,first_year_college,,legacy_20
+P21,Mechanics,,Why does an object moving at constant speed in a circle still have acceleration?,intro,first_year_college,Expansion batch (Day 2): circular motion concept prompt,expansion_10
+P22,Electricity & Magnetism,,"At fixed voltage, why does increasing resistance reduce current in a simple circuit?",intro,first_year_college,Expansion batch (Day 2): Ohm's law concept prompt,expansion_10
+P23,Energy / Work / Thermo,,Why is work done by a force zero when the force is perpendicular to displacement?,intro,first_year_college,Expansion batch (Day 2): work-angle interpretation,expansion_10
+P24,Energy / Work / Thermo,,"In a sealed rigid container, why does pressure increase when temperature increases?",intro,first_year_college,Expansion batch (Day 2): ideal gas conceptual reasoning,expansion_10
+P25,Electricity & Magnetism,,Why does the induced current oppose the change in magnetic flux in electromagnetic induction?,intro,first_year_college,Expansion batch (Day 2): Faraday/Lenz conceptual prompt,expansion_10
+P26,Mechanics,,Why is total momentum conserved in collisions when external forces are negligible?,intro,first_year_college,Expansion batch (Day 2): momentum conservation,expansion_10
+P27,Mechanics,,"How does Newton's second law explain the relationship between net force, mass, and acceleration?",intro,first_year_college,Expansion batch (Day 2): force-acceleration relation,expansion_10
+P28,Energy / Work / Thermo,,How can kinetic and potential energy change while total mechanical energy remains constant?,intro,first_year_college,Expansion batch (Day 2): conservation of mechanical energy,expansion_10
+P29,Energy / Work / Thermo,,"How are wave speed, frequency, and wavelength related, and what changes when frequency increases in one medium?",intro,first_year_college,Expansion batch (Day 2): wave relation v=f*lambda,expansion_10
+P30,Electricity & Magnetism,,How does a magnetic field change the motion of a moving charged particle?,intro,first_year_college,Expansion batch (Day 2): magnetic Lorentz-force behavior,expansion_10

@@ -1,0 +1,6 @@
+move,human_sentence_count,human_sentence_pct,ai_sentence_count,ai_sentence_pct,human_expl_presence_pct,ai_expl_presence_pct,ai_minus_human_presence_pp
+FRAME,24,14.63,50,14.08,80.0,83.3,3.3
+PRINCIPLE_DERIVE,99,60.37,204,57.46,100.0,100.0,0.0
+VERIFY,17,10.37,40,11.27,46.7,50.0,3.3
+INTUITION,11,6.71,29,8.17,30.0,41.7,11.7
+CAVEAT,13,7.93,32,9.01,33.3,33.3,0.0

@@ -1,0 +1,40 @@
+explanation_id,annotator,clarity,correctness,completeness,comments
+H_P21_01,Annotator_1,5,5,5,Human reference explanation; high clarity/correctness with strong conceptual coverage.
+H_P21_01,Annotator_2,5,5,5,Second-pass overlap rating (independent draft).
+H_P22_01,Annotator_1,4,5,4,Human reference explanation; high clarity/correctness with strong conceptual coverage.
+H_P23_01,Annotator_1,5,5,5,Human reference explanation; high clarity/correctness with strong conceptual coverage.
+H_P24_01,Annotator_1,4,5,4,Human reference explanation; high clarity/correctness with strong conceptual coverage.
+H_P25_01,Annotator_1,5,5,5,Human reference explanation; high clarity/correctness with strong conceptual coverage.
+H_P25_01,Annotator_2,4,5,5,Second-pass overlap rating (independent draft).
+H_P26_01,Annotator_1,5,5,5,Human reference explanation; high clarity/correctness with strong conceptual coverage.
+H_P27_01,Annotator_1,5,5,5,Human reference explanation; high clarity/correctness with strong conceptual coverage.
+H_P28_01,Annotator_1,4,5,4,Human reference explanation; high clarity/correctness with strong conceptual coverage.
+H_P29_01,Annotator_1,4,5,4,Human reference explanation; high clarity/correctness with strong conceptual coverage.
+H_P29_01,Annotator_2,4,4,5,Second-pass overlap rating (independent draft).
+H_P30_01,Annotator_1,5,5,5,Human reference explanation; high clarity/correctness with strong conceptual coverage.
+AI_P21_1,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P21_1,Annotator_2,5,5,4,Second-pass overlap rating (independent draft).
+AI_P21_2,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P21_2,Annotator_2,4,5,4,Second-pass overlap rating (independent draft).
+AI_P22_1,Annotator_1,5,5,5,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P22_2,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P23_1,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P23_2,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P24_1,Annotator_1,4,5,3,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P24_2,Annotator_1,4,5,5,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P25_1,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P25_1,Annotator_2,5,4,4,Second-pass overlap rating (independent draft).
+AI_P25_2,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P25_2,Annotator_2,5,5,4,Second-pass overlap rating (independent draft).
+AI_P26_1,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P26_2,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P27_1,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P27_2,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P28_1,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P28_2,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P29_1,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P29_1,Annotator_2,5,5,4,Second-pass overlap rating (independent draft).
+AI_P29_2,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P29_2,Annotator_2,5,5,4,Second-pass overlap rating (independent draft).
+AI_P30_1,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."
+AI_P30_2,Annotator_1,5,5,4,"AI explanation; rated for conceptual fidelity, readability, and reasoning completeness."

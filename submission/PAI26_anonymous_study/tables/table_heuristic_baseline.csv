@@ -1,0 +1,8 @@
+metric,value
+sentence_accuracy,0.706
+macro_f1,0.5745
+f1::FRAME,0.9298
+f1::PRINCIPLE_DERIVE,0.7957
+f1::VERIFY,0.2921
+f1::INTUITION,0.5882
+f1::CAVEAT,0.2667
